@@ -10,3 +10,7 @@ I don't have many "other" hobbies, but I do enjoy a good anime/manga/LN (see my 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=una-ada&langs_count=6&layout=compact" />
 </a>
 <br />
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=unaada&layout=compact" />
+ </a>
