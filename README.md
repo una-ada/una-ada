@@ -12,8 +12,8 @@ I don't have many "other" hobbies, but I do enjoy a good anime/manga/LN (see my 
 ### ...and I've been watching...
 
 <!-- BLOG-POST-LIST:START -->
-`&block;&block;&block;&block;&block;&#9617;&#9617;&#9617;&#9617;&#9617;&#9617;&#9617;` [Citrus](https://myanimelist.net/anime/34382/Citrus) <br />
-`&block;&block;&block;&block;&block;&block;&block;&block;&block;&block;&block;&block;` [SSSS.Dynazenon](https://myanimelist.net/anime/40870/SSSSDynazenon) <br />
-`&block;&block;&block;&block;&block;&block;&block;&block;&block;&block;&#9617;&#9617;` [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime/40586/Slime_Taoshite_300-nen_Shiranai_Uchi_ni_Level_Max_ni_Nattemashita) <br />
-`&block;&block;&block;&block;&block;&block;&block;&block;&block;&block;&#9617;&#9617;` [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime/44276/Kyuukyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara) <br />
-`&block;&block;&block;&block;&block;&block;&block;&block;&block;&block;&block;&#9617;` [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/41488/Tensura_Nikki__Tensei_shitara_Slime_Datta_Ken) <br /><!-- BLOG-POST-LIST:END -->
+`█████░░░░░░░` [Citrus](https://myanimelist.net/anime/34382/Citrus) <br />
+`████████████` [SSSS.Dynazenon](https://myanimelist.net/anime/40870/SSSSDynazenon) <br />
+`██████████░░` [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime/40586/Slime_Taoshite_300-nen_Shiranai_Uchi_ni_Level_Max_ni_Nattemashita) <br />
+`██████████░░` [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime/44276/Kyuukyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara) <br />
+`███████████░` [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/41488/Tensura_Nikki__Tensei_shitara_Slime_Datta_Ken) <br /><!-- BLOG-POST-LIST:END -->
