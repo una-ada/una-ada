@@ -18,8 +18,10 @@ Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░
 ### ...and I've been watching...
 
 <!-- BLOG-POST-LIST:START -->
-`█████░░░░░░░` [Citrus](https://myanimelist.net/anime/34382/Citrus) <br />
-`████████████` [SSSS.Dynazenon](https://myanimelist.net/anime/40870/SSSSDynazenon) <br />
-`██████████░░` [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita](https://myanimelist.net/anime/40586/Slime_Taoshite_300-nen_Shiranai_Uchi_ni_Level_Max_ni_Nattemashita) <br />
-`██████████░░` [Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara](https://myanimelist.net/anime/44276/Kyuukyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara) <br />
-`███████████░` [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/41488/Tensura_Nikki__Tensei_shitara_Slime_Datta_Ken) <br /><!-- BLOG-POST-LIST:END -->
+Citrus                        ██████████░░░░░░░░░░░░░░░   5/12 
+SSSS.Dynazenon                █████████████████████████   12/12 
+Slime Taoshite 300-nen, ...   ████████████████████░░░░░   10/12 
+Kyuukyoku Shinka shita F...   ████████████████████░░░░░   10/12 
+Tensura Nikki: Tensei sh...   ██████████████████████░░░   11/12 
+
+<!-- BLOG-POST-LIST:END -->
