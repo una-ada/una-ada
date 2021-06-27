@@ -1,7 +1,17 @@
-## Welcome to my GitHub profile~!! :revolving_hearts:
+<h2 align="center">
+  Hello~!! I'm Una!
+</h2>
 
-Hello, I'm Una! I like to do a little bit of everything (art, code, design, writing, &c.) and am currently based in Seattle.
-I don't have many "other" hobbies, but I do enjoy a good anime/manga/LN (see my profile on [MAL](https://myanimelist.net/profile/unasareyou)).
+- Taking a course on Django and MERN stacks
+- Also learning Haskell and Angular
+- Ask me about JavaScript and graphic design
+- Sometimes make fonts and music.
+
+<p align="center">
+  <a href="https://anarchy.website/">Blog</a> &bull;
+  <a href="https://una-ada.github.io/">Portfolio</a> &bull;
+  <a href="https://twitter.com/unaxiii">Twitter</a>
+</p>
 
 **Weekly Development Report**
 
