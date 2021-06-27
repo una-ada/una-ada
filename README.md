@@ -19,7 +19,7 @@ Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Citrus                       ██████████░░░░░░░░░░░░░░░   5/12
+    Citrus                       █████████████████████████   12/12
     SSSS.Dynazenon               █████████████████████████   12/12
     Slime Taoshite 300-nen, ...  ████████████████████░░░░░   10/12
     Kyuukyoku Shinka shita F...  ████████████████████░░░░░   10/12
