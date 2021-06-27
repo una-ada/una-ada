@@ -7,7 +7,8 @@ I don't have many "other" hobbies, but I do enjoy a good anime/manga/LN (see my 
 
 ### This week I spent my time on...
 
-![Una's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=unaada&layout=compact&hide_title=true&langs_count=6)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### ...and I've been watching...
 
