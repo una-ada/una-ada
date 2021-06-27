@@ -29,9 +29,9 @@ Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Kaichou wa Maid-sama!        ████░░░░░░░░░░░░░░░░░░░░░   5/26
     Citrus                       █████████████████████████   12/12
     SSSS.Dynazenon               █████████████████████████   12/12
     Slime Taoshite 300-nen, ...  ████████████████████░░░░░   10/12
     Kyuukyoku Shinka shita F...  ████████████████████░░░░░   10/12
-    Tensura Nikki: Tensei sh...  ██████████████████████░░░   11/12
 <!-- RECENT-ANIME:END -->
