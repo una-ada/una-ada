@@ -13,3 +13,4 @@ jobs:
         with:
           commit_message: "anime: updated recently watched list"
           feed_list: "https://myanimelist.net/rss.php?type=rw&u=unasareyou"
+          template: "[$title]($url) | $description | $newline |"
