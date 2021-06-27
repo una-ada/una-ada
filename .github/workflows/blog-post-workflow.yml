@@ -15,5 +15,15 @@ jobs:
           feed_list: "https://myanimelist.net/rss.php?type=rw&u=unasareyou"
           item_exec: |
                     post.title = post.title.replace(/\s-\sTV/, '');
-                    post.description = (arr => arr[0] == 0 ? 'PTW' : (n=>'&#9617;'.repeat(n)+'&block;'.repeat(12-n))(~~(arr[0]*(arr[1]/12))))(post.description.match(/(\d+)/g).map(n=>+n));
+                    post.description = (arr =>
+                      arr[0] == 0
+                        ? 'PTW'
+                        : (n =>
+                            '&#9617;'.repeat(n) + '&block;'.repeat(12 - n)
+                          )(~~( arr[0] * ( 12 / arr[1] )))
+                      )(
+                        post.description
+                          .match(/(\d+)/g)
+                          .map(n => +n)
+                      );
           template: "[$title]($url) | $description | $newline |"
