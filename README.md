@@ -12,5 +12,9 @@ I don't have many "other" hobbies, but I do enjoy a good anime/manga/LN (see my 
 ### ...and I've been watching...
 | Anime | Progress |
 |:------|:--------:|
-|<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+|<!-- BLOG-POST-LIST:START -->[Citrus - TV](https://myanimelist.net/anime/34382/Citrus) | Watching - 5 of 12 episodes | 
+ |[SSSS.Dynazenon - TV](https://myanimelist.net/anime/40870/SSSSDynazenon) | Completed - 12 of 12 episodes | 
+ |[Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita - TV](https://myanimelist.net/anime/40586/Slime_Taoshite_300-nen_Shiranai_Uchi_ni_Level_Max_ni_Nattemashita) | Watching - 10 of 12 episodes | 
+ |[Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara - TV](https://myanimelist.net/anime/44276/Kyuukyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara) | Watching - 10 of 12 episodes | 
+ |[Tensura Nikki: Tensei shitara Slime Datta Ken - TV](https://myanimelist.net/anime/41488/Tensura_Nikki__Tensei_shitara_Slime_Datta_Ken) | Watching - 11 of 12 episodes | 
+ |<!-- BLOG-POST-LIST:END -->
