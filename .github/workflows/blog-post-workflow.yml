@@ -14,16 +14,27 @@ jobs:
           commit_message: "anime: update recently watched list"
           feed_list: "https://myanimelist.net/rss.php?type=rw&u=unasareyou"
           item_exec: |
-                    post.title = post.title.replace(/\s-\sTV/, '');
+                    post.title = (s => 
+                        (s.length < 27
+                          ? s + ' '.repeat(27 - s.length)
+                          : s.length > 24
+                            ? s.substring(0, 24) + '...'
+                            : s
+                        ) + '  '
+                      )(
+                        post.title.replace(/\s-\sTV/, '')
+                      );
                     post.description = (arr =>
                       arr[0] == 0
-                        ? 'Plan 2 Watch'
+                        ? '░'.repeat(25) + '   PTW'
                         : (n =>
-                            '█'.repeat(n) + '░'.repeat(12 - n)
-                          )(~~( arr[0] * ( 12 / arr[1] )))
+                            '█'.repeat(n) + '░'.repeat(25 - n)
+                          )(~~( arr[0] * ( 25 / arr[1] )))
+                          + `   ${arr[0]}/${arr[1]}`
                       )(
                         post.description
                           .match(/(\d+)/g)
                           .map(n => +n)
                       );
-          template: "$newline`$description` [$title]($url) <br />"
+          tag_post_pre_newline: true
+          template: "    $title $description $newline"
