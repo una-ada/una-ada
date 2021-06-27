@@ -8,6 +8,13 @@ I don't have many "other" hobbies, but I do enjoy a good anime/manga/LN (see my 
 ### This week I spent my time on...
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 37 mins  █████████████░░░░░░░░░░░░   51.42 % 
+EJS          4 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
+SCSS         3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown     1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+```
 <!--END_SECTION:waka-->
 
 ### ...and I've been watching...
