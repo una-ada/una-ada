@@ -3,7 +3,7 @@
 Hello, I'm Una! I like to do a little bit of everything (art, code, design, writing, &c.) and am currently based in Seattle.
 I don't have many "other" hobbies, but I do enjoy a good anime/manga/LN (see my profile on [MAL](https://myanimelist.net/profile/unasareyou)).
 
-### This week I spent my time on...
+**Weekly Development Report**
 
 <!--START_SECTION:waka-->
 ```text
@@ -15,13 +15,13 @@ Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### ...and I've been watching...
+**Recently Watched Anime**
 
-<!-- BLOG-POST-LIST:START -->
+<!-- RECENT-ANIME:START -->
 
     Citrus                       ██████████░░░░░░░░░░░░░░░   5/12
     SSSS.Dynazenon               █████████████████████████   12/12
     Slime Taoshite 300-nen, ...  ████████████████████░░░░░   10/12
     Kyuukyoku Shinka shita F...  ████████████████████░░░░░   10/12
     Tensura Nikki: Tensei sh...  ██████████████████████░░░   11/12
-<!-- BLOG-POST-LIST:END -->
+<!-- RECENT-ANIME:END -->

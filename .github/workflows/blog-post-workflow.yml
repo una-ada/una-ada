@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Recent Anime
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: RECENT-ANIME 
           commit_message: "anime: update recently watched list"
           feed_list: "https://myanimelist.net/rss.php?type=rw&u=unasareyou"
           item_exec: |
