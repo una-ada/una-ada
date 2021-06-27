@@ -25,8 +25,8 @@ jobs:
                         post.title.replace(/\s-\sTV/, '')
                       );
                     post.description = (arr =>
-                      arr[0] == 0
-                        ? '░'.repeat(25) + '   PTW'
+                      arr.length == 1
+                        ? '░'.repeat(25) + `   ${arr[0]}/???`
                         : (n =>
                             '█'.repeat(n) + '░'.repeat(25 - n)
                           )(~~( arr[0] * ( 25 / arr[1] )))
