@@ -18,10 +18,10 @@ Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░
 ### ...and I've been watching...
 
 <!-- BLOG-POST-LIST:START -->
-Citrus                        ██████████░░░░░░░░░░░░░░░   5/12 
-SSSS.Dynazenon                █████████████████████████   12/12 
-Slime Taoshite 300-nen, ...   ████████████████████░░░░░   10/12 
-Kyuukyoku Shinka shita F...   ████████████████████░░░░░   10/12 
-Tensura Nikki: Tensei sh...   ██████████████████████░░░   11/12 
 
+    Citrus                       ██████████░░░░░░░░░░░░░░░   5/12
+    SSSS.Dynazenon               █████████████████████████   12/12
+    Slime Taoshite 300-nen, ...  ████████████████████░░░░░   10/12
+    Kyuukyoku Shinka shita F...  ████████████████████░░░░░   10/12
+    Tensura Nikki: Tensei sh...  ██████████████████████░░░   11/12
 <!-- BLOG-POST-LIST:END -->
