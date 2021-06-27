@@ -17,13 +17,13 @@ jobs:
                     post.title = post.title.replace(/\s-\sTV/, '');
                     post.description = (arr =>
                       arr[0] == 0
-                        ? 'PTW'
+                        ? 'Plan 2 Watch'
                         : (n =>
-                            '&#9617;'.repeat(n) + '&block;'.repeat(12 - n)
+                            '&block;'.repeat(n) + '&#9617;'.repeat(12 - n)
                           )(~~( arr[0] * ( 12 / arr[1] )))
                       )(
                         post.description
                           .match(/(\d+)/g)
                           .map(n => +n)
                       );
-          template: "[$title]($url) | $description | $newline |"
+          template: "$newline`$description` [$title]($url) <br />"
