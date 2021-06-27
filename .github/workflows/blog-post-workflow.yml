@@ -19,7 +19,7 @@ jobs:
                       arr[0] == 0
                         ? 'Plan 2 Watch'
                         : (n =>
-                            '&block;'.repeat(n) + '&#9617;'.repeat(12 - n)
+                            '█'.repeat(n) + '░'.repeat(12 - n)
                           )(~~( arr[0] * ( 12 / arr[1] )))
                       )(
                         post.description
