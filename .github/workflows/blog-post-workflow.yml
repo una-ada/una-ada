@@ -15,12 +15,11 @@ jobs:
           feed_list: "https://myanimelist.net/rss.php?type=rw&u=unasareyou"
           item_exec: |
                     post.title = (s => 
-                        (s.length < 27
+                        s.length < 27
                           ? s + ' '.repeat(27 - s.length)
                           : s.length > 24
                             ? s.substring(0, 24) + '...'
                             : s
-                        ) + '  '
                       )(
                         post.title.replace(/\s-\sTV/, '')
                       );
@@ -37,4 +36,4 @@ jobs:
                           .map(n => +n)
                       );
           tag_post_pre_newline: true
-          template: "    $title $description $newline"
+          template: "$newline    $title  $description"
