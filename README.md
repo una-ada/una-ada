@@ -29,9 +29,9 @@ Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Chainsaw Man                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Ishuzoku Reviewers           ██████████░░░░░░░░░░░░░░░   5/12
     Kaichou wa Maid-sama!        ████░░░░░░░░░░░░░░░░░░░░░   5/26
     Citrus                       █████████████████████████   12/12
     SSSS.Dynazenon               █████████████████████████   12/12
-    Slime Taoshite 300-nen, ...  ████████████████████░░░░░   10/12
 <!-- RECENT-ANIME:END -->
