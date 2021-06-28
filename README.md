@@ -29,7 +29,7 @@ Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Ishuzoku Reviewers           ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Ishuzoku Reviewers           ████████░░░░░░░░░░░░░░░░░   4/12
     Kaichou wa Maid-sama!        ████░░░░░░░░░░░░░░░░░░░░░   5/26
     Citrus                       █████████████████████████   12/12
     SSSS.Dynazenon               █████████████████████████   12/12
