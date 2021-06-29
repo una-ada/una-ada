@@ -29,9 +29,9 @@ JSON         1 hr 29 mins    █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Kaichou wa Maid-sama!        ████████░░░░░░░░░░░░░░░░░   9/26
     Chainsaw Man                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Ishuzoku Reviewers           ██████████░░░░░░░░░░░░░░░   5/12
-    Kaichou wa Maid-sama!        ████░░░░░░░░░░░░░░░░░░░░░   5/26
     Citrus                       █████████████████████████   12/12
     SSSS.Dynazenon               █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
