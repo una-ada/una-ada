@@ -29,9 +29,9 @@ EJS          3 hrs 43 mins   ██▓░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Kaichou wa Maid-sama!        ██████████████░░░░░░░░░░░   15/26
+    Violet Evergarden            ███████████░░░░░░░░░░░░░░   6/13
+    Kaichou wa Maid-sama!        █████████████████████████   26/26
     Chainsaw Man                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Ishuzoku Reviewers           ██████████░░░░░░░░░░░░░░░   5/12
     Citrus                       █████████████████████████   12/12
-    SSSS.Dynazenon               █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
