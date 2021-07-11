@@ -29,9 +29,9 @@ HTML         2 hrs 47 mins   ███▒░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Slime Taoshite 300-nen, ...  █████████████████████████   12/12
+    Tensura Nikki: Tensei sh...  █████████████████████████   12/12
+    Kyuukyoku Shinka shita F...  █████████████████████████   12/12
     Violet Evergarden            ███████████░░░░░░░░░░░░░░   6/13
     Kaichou wa Maid-sama!        █████████████████████████   26/26
-    Chainsaw Man                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Ishuzoku Reviewers           ██████████░░░░░░░░░░░░░░░   5/12
-    Citrus                       █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
