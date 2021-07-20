@@ -1,17 +1,17 @@
 <h2 align="center">
-  Hello~!! I'm Una!
+  Hello~!! I'm Una Hoglund!
 </h2>
-
-- Taking a course on Django and MERN stacks
-- Also learning Haskell and Angular
-- Ask me about JavaScript and graphic design
-- Sometimes make fonts and music.
 
 <p align="center">
   <a href="https://anarchy.website/">Blog</a> &bull;
   <a href="https://una-ada.github.io/">Portfolio</a> &bull;
   <a href="https://twitter.com/unaxiii">Twitter</a>
 </p>
+
+- Taking a course on Django and MERN stacks
+- Also learning Haskell and Angular
+- Former physics and mathematics student at UWRF
+- Interested in animation and design
 
 **Weekly Development Report**
 
