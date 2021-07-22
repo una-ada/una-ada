@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello~!! I'm Una Hoglund!
+  Hello~!! I'm Una!
 </h2>
 
 <p align="center">
