@@ -29,9 +29,9 @@ JavaScript   42 mins         █░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Asobi Asobase                ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Tensei shitara Slime Dat...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Slime Taoshite 300-nen, ...  █████████████████████████   12/12
     Tensura Nikki: Tensei sh...  █████████████████████████   12/12
     Kyuukyoku Shinka shita F...  █████████████████████████   12/12
-    Violet Evergarden            ███████████░░░░░░░░░░░░░░   6/13
 <!-- RECENT-ANIME:END -->
