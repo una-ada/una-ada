@@ -29,9 +29,9 @@ JSON         57 mins         █▓░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Seijo no Maryoku wa Bann...  ██████████████░░░░░░░░░░░   7/12
+    Sentouin, Hakenshimasu!      █████████████████████████   12/12
     Asobi Asobase                ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Tensei shitara Slime Dat...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Slime Taoshite 300-nen, ...  █████████████████████████   12/12
-    Tensura Nikki: Tensei sh...  █████████████████████████   12/12
-    Kyuukyoku Shinka shita F...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
