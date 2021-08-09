@@ -29,9 +29,9 @@ HTML         1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Itai no wa Iya nano de B...  █████████████████████████   12/12
     Chikyuugai Shounen Shouj...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Seijo no Maryoku wa Bann...  ██████████████░░░░░░░░░░░   7/12
     Sentouin, Hakenshimasu!      █████████████████████████   12/12
     Asobi Asobase                ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Tensei shitara Slime Dat...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
 <!-- RECENT-ANIME:END -->
