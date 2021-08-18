@@ -8,8 +8,8 @@
   <a href="https://twitter.com/unaxiii">Twitter</a>
 </p>
 
-- Taking a course on Django and MERN stacks
-- Also learning Haskell and Angular
+- Currently studying MERN, MEAN, and Haskell
+- Planning to study WASM, Blender, and Unity
 - Former physics and mathematics student at UWRF
 - Interested in animation and design
 
