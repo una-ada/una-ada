@@ -29,9 +29,9 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Evangelion: 3.0+1.0 Thri...  █████████████████████████   1/1
     Hidan no Aria                ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Akagami no Shirayuki-hime    ████████████████░░░░░░░░░   8/12
     Itai no wa Iya nano de B...  █████████████████████████   12/12
     Chikyuugai Shounen Shouj...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Seijo no Maryoku wa Bann...  ██████████████░░░░░░░░░░░   7/12
 <!-- RECENT-ANIME:END -->
