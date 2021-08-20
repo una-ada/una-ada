@@ -29,9 +29,9 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Evangelion: 3.0+1.0 Thri...  █████████████████████████   1/1
-    Hidan no Aria                ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Akagami no Shirayuki-hime    ████████████████░░░░░░░░░   8/12
-    Itai no wa Iya nano de B...  █████████████████████████   12/12
-    Chikyuugai Shounen Shouj...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Adachi to Shimamura          █████████████████████████   12/12
+    Miru Tights - ONA            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Mieruko-chan                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Hibike! Euphonium 2          ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
+    Hibike! Euphonium            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
 <!-- RECENT-ANIME:END -->
