@@ -29,9 +29,9 @@ HTML         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Tensei shitara Slime Dat...  ██████████████░░░░░░░░░░░   7/12
+    Kidou Keisatsu Patlabor ...  █████████████████████████   7/7
     Adachi to Shimamura          █████████████████████████   12/12
     Miru Tights - ONA            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Mieruko-chan                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Hibike! Euphonium 2          ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
-    Hibike! Euphonium            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
 <!-- RECENT-ANIME:END -->
