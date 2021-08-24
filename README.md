@@ -29,9 +29,9 @@ Haskell      16 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Yahari Ore no Seishun Lo...  █████████████████████████   12/12
+    Joshikousei no Mudazukai     █████████████████████████   12/12
     Tensei shitara Slime Dat...  ██████████████░░░░░░░░░░░   7/12
     Kidou Keisatsu Patlabor ...  █████████████████████████   7/7
     Adachi to Shimamura          █████████████████████████   12/12
-    Miru Tights - ONA            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Mieruko-chan                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
