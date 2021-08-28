@@ -29,9 +29,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Cardcaptor Sakura            ░░░░░░░░░░░░░░░░░░░░░░░░░   2/70
+    Tensei shitara Slime Dat...  ████████████████░░░░░░░░░   8/12
     Yahari Ore no Seishun Lo...  █████████████████████████   12/12
     Joshikousei no Mudazukai     █████████████████████████   12/12
-    Tensei shitara Slime Dat...  ██████████████░░░░░░░░░░░   7/12
     Kidou Keisatsu Patlabor ...  █████████████████████████   7/7
-    Adachi to Shimamura          █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
