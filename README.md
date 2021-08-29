@@ -28,9 +28,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Cardcaptor Sakura            ░░░░░░░░░░░░░░░░░░░░░░░░░   2/70
+    Mnemosyne: Mnemosyne no ...  ████████████████░░░░░░░░░   4/6
+    Asagao to Kase-san. - OVA    █████████████████████████   1/1
+    Yagate Kimi ni Naru          █████████████████████████   13/13
+    Cardcaptor Sakura            ██░░░░░░░░░░░░░░░░░░░░░░░   7/70
     Tensei shitara Slime Dat...  ████████████████░░░░░░░░░   8/12
-    Yahari Ore no Seishun Lo...  █████████████████████████   12/12
-    Joshikousei no Mudazukai     █████████████████████████   12/12
-    Kidou Keisatsu Patlabor ...  █████████████████████████   7/7
 <!-- RECENT-ANIME:END -->
