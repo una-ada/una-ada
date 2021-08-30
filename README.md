@@ -25,9 +25,9 @@ HTML         11 mins         █████████████████
 
 <!-- RECENT-ANIME:START -->
 
-    Mnemosyne: Mnemosyne no ...  ████████████████░░░░░░░░░   4/6
+    Mnemosyne: Mnemosyne no ...  ████████████████████░░░░░   5/6
+    Cardcaptor Sakura            ███████░░░░░░░░░░░░░░░░░░   21/70
     Asagao to Kase-san. - OVA    █████████████████████████   1/1
     Yagate Kimi ni Naru          █████████████████████████   13/13
-    Cardcaptor Sakura            ██░░░░░░░░░░░░░░░░░░░░░░░   7/70
     Tensei shitara Slime Dat...  ████████████████░░░░░░░░░   8/12
 <!-- RECENT-ANIME:END -->
