@@ -25,9 +25,9 @@ HTML         11 mins         █████████████████
 
 <!-- RECENT-ANIME:START -->
 
-    Yuri Kuma Arashi             ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Akuma no Riddle              ████████████░░░░░░░░░░░░░   6/12
+    Yuri Kuma Arashi             █████████████████████████   12/12
     Mnemosyne: Mnemosyne no ...  █████████████████████████   6/6
     Cardcaptor Sakura            ███████░░░░░░░░░░░░░░░░░░   21/70
     Asagao to Kase-san. - OVA    █████████████████████████   1/1
-    Yagate Kimi ni Naru          █████████████████████████   13/13
 <!-- RECENT-ANIME:END -->
