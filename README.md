@@ -26,9 +26,9 @@ HTML         41 mins         ██████▒░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Mawaru Penguindrum           ░░░░░░░░░░░░░░░░░░░░░░░░░   0/24
+    Tentacle and Witches - OVA   ████████████░░░░░░░░░░░░░   2/4
+    Shirobako Movie - Movie      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/1
+    Tamashii Insert - OVA        █████████████████████████   2/2
     Akuma no Riddle              ████████████░░░░░░░░░░░░░   6/12
-    Yuri Kuma Arashi             █████████████████████████   12/12
-    Mnemosyne: Mnemosyne no ...  █████████████████████████   6/6
-    Cardcaptor Sakura            ███████░░░░░░░░░░░░░░░░░░   21/70
-    Asagao to Kase-san. - OVA    █████████████████████████   1/1
 <!-- RECENT-ANIME:END -->
