@@ -26,9 +26,9 @@ HTML         40 mins         █████▓░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Akuma no Riddle: Shousha...  █████████████████████████   1/1
+    Akuma no Riddle              █████████████████████████   12/12
+    Tensei shitara Slime Dat...  ██████████████████░░░░░░░   9/12
     Mawaru Penguindrum           ░░░░░░░░░░░░░░░░░░░░░░░░░   0/24
     Tentacle and Witches - OVA   ████████████░░░░░░░░░░░░░   2/4
-    Shirobako Movie - Movie      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/1
-    Tamashii Insert - OVA        █████████████████████████   2/2
-    Akuma no Riddle              ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
