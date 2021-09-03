@@ -26,9 +26,9 @@ HTML         40 mins         █████▓░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Valkyrie Drive: Mermaid      ██████░░░░░░░░░░░░░░░░░░░   3/12
     Akuma no Riddle: Shousha...  █████████████████████████   1/1
     Akuma no Riddle              █████████████████████████   12/12
     Tensei shitara Slime Dat...  ██████████████████░░░░░░░   9/12
     Mawaru Penguindrum           ░░░░░░░░░░░░░░░░░░░░░░░░░   0/24
-    Tentacle and Witches - OVA   ████████████░░░░░░░░░░░░░   2/4
 <!-- RECENT-ANIME:END -->
