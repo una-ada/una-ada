@@ -29,9 +29,9 @@ SCSS         14 mins         █░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Biao Ren - ONA               ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Valkyrie Drive: Mermaid      ████████████████████░░░░░   10/12
     Super Cub                    █████████████████████████   12/12
     Akuma no Riddle: Shousha...  █████████████████████████   1/1
     Akuma no Riddle              █████████████████████████   12/12
-    Tensei shitara Slime Dat...  ██████████████████░░░░░░░   9/12
 <!-- RECENT-ANIME:END -->
