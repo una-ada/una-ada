@@ -29,9 +29,9 @@ Other        6 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Biao Ren - ONA               ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Valkyrie Drive: Mermaid      ████████████████████░░░░░   10/12
-    Super Cub                    █████████████████████████   12/12
-    Akuma no Riddle: Shousha...  █████████████████████████   1/1
-    Akuma no Riddle              █████████████████████████   12/12
+    Saiki Kusuo no Ψ-nan         ██████████████████████░░░   106/120
+    Yuuki Yuuna wa Yuusha de...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Valkyrie Drive: Mermaid ...  █████████████████████████   6/6
+    Valkyrie Drive: Mermaid      █████████████████████████   12/12
+    Seijo no Maryoku wa Bann...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
