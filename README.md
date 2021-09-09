@@ -29,9 +29,9 @@ Other        6 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Kanojo to Kanojo no Neko...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/4
     Saiki Kusuo no Ψ-nan         ██████████████████████░░░   106/120
     Yuuki Yuuna wa Yuusha de...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Valkyrie Drive: Mermaid ...  █████████████████████████   6/6
     Valkyrie Drive: Mermaid      █████████████████████████   12/12
-    Seijo no Maryoku wa Bann...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
