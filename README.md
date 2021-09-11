@@ -29,9 +29,9 @@ Other        6 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Fruits Basket 1st Season     █████████░░░░░░░░░░░░░░░░   9/25
+    Netsuzou TRap                █████████████████████████   12/12
     Gyakuten Sekai no Denchi...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Tensei shitara Slime Dat...  ████████████████████░░░░░   10/12
     Saiki Kusuo no Ψ-nan         █████████████████████████   120/120
-    Kanojo to Kanojo no Neko...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/4
-    Yuuki Yuuna wa Yuusha de...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
