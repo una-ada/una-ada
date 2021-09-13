@@ -27,9 +27,9 @@ HTML         2 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Fruits Basket 1st Season     █████████░░░░░░░░░░░░░░░░   9/25
-    Netsuzou TRap                █████████████████████████   12/12
-    Gyakuten Sekai no Denchi...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Tensei shitara Slime Dat...  ████████████████████░░░░░   10/12
-    Saiki Kusuo no Ψ-nan         █████████████████████████   120/120
+    Fragtime - Movie             █████████████████████████   1/1
+    Another: The Other - Ing...  █████████████████████████   1/1
+    Kyoukai no Kanata Movie ...  █████████████████████████   1/1
+    Kyoukai no Kanata: Shino...  █████████████████████████   1/1
+    Kyoukai no Kanata: Idol ...  █████████████████████████   5/5
 <!-- RECENT-ANIME:END -->
