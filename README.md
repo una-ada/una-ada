@@ -27,9 +27,9 @@ HTML         1 min           ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Mushishi                     ███████████░░░░░░░░░░░░░░   12/26
     Fragtime - Movie             █████████████████████████   1/1
     Another: The Other - Ing...  █████████████████████████   1/1
     Kyoukai no Kanata Movie ...  █████████████████████████   1/1
     Kyoukai no Kanata: Shino...  █████████████████████████   1/1
-    Kyoukai no Kanata: Idol ...  █████████████████████████   5/5
 <!-- RECENT-ANIME:END -->
