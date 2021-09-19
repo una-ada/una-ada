@@ -27,9 +27,9 @@ SCSS         12 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Mushishi                     █████████████████████████   26/26
     Amagi Brilliant Park: No...  █████████████████████████   1/1
     Fullmetal Alchemist          ██████░░░░░░░░░░░░░░░░░░░   13/51
-    Mushishi                     ███████████████████░░░░░░   20/26
     Fragtime - Movie             █████████████████████████   1/1
     Another: The Other - Ing...  █████████████████████████   1/1
 <!-- RECENT-ANIME:END -->
