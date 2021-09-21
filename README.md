@@ -27,9 +27,9 @@ SCSS         12 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Gakkou no Kaidan: Kubina...  █████████████████████████   1/1
+    Gakkou no Kaidan             █████████████████████████   19/19
     Mushishi                     █████████████████████████   26/26
     Amagi Brilliant Park: No...  █████████████████████████   1/1
     Fullmetal Alchemist          ██████░░░░░░░░░░░░░░░░░░░   13/51
-    Fragtime - Movie             █████████████████████████   1/1
-    Another: The Other - Ing...  █████████████████████████   1/1
 <!-- RECENT-ANIME:END -->
