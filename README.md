@@ -25,9 +25,9 @@
 
 <!-- RECENT-ANIME:START -->
 
+    Ganbare Douki-chan - ONA     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Kaguya-sama wa Kokuraset...  █████████████████████████   12/12
     Domestic na Kanojo           ████████████████░░░░░░░░░   8/12
     Kaguya-sama wa Kokuraset...  █████████████████████████   12/12
     Tensei shitara Slime Dat...  █████████████████████████   12/12
-    Gakkou no Kaidan: Kubina...  █████████████████████████   1/1
 <!-- RECENT-ANIME:END -->
