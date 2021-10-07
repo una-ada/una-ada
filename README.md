@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
+    Nichijou                     █████████████████████████   26/26
     Ganbare Douki-chan - ONA     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Kaguya-sama wa Kokuraset...  █████████████████████████   12/12
     Domestic na Kanojo           ████████████████░░░░░░░░░   8/12
     Kaguya-sama wa Kokuraset...  █████████████████████████   12/12
-    Tensei shitara Slime Dat...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
