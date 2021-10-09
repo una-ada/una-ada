@@ -25,9 +25,9 @@ JavaScript   2 mins          █████████████████
 
 <!-- RECENT-ANIME:START -->
 
+    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Blue Period                  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Nichijou                     █████████████████████████   26/26
     Ganbare Douki-chan - ONA     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Kaguya-sama wa Kokuraset...  █████████████████████████   12/12
-    Domestic na Kanojo           ████████████████░░░░░░░░░   8/12
     Kaguya-sama wa Kokuraset...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
