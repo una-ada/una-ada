@@ -25,9 +25,9 @@ JavaScript   2 mins          █████████████████
 
 <!-- RECENT-ANIME:START -->
 
+    Ganbare Douki-chan - ONA     ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Mieruko-chan                 ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Mushoku Tensei: Isekai I...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Blue Period                  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Nichijou                     █████████████████████████   26/26
-    Ganbare Douki-chan - ONA     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Kaguya-sama wa Kokuraset...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
