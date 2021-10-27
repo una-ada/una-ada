@@ -25,9 +25,9 @@ JavaScript   22 mins         █████████████████
 
 <!-- RECENT-ANIME:START -->
 
+    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
     Platinum End                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/24
     Ganbare Douki-chan - ONA     ██████░░░░░░░░░░░░░░░░░░░   3/12
     Mieruko-chan                 ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Mushoku Tensei: Isekai I...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
