@@ -25,9 +25,9 @@
 
 <!-- RECENT-ANIME:START -->
 
-    Takt Op. Destiny             ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
-    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
-    Platinum End                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0/24
-    Ganbare Douki-chan - ONA     ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Mieruko-chan                 ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Kuro no Danshou - OVA        ████████████░░░░░░░░░░░░░   2/4
+    Kimetsu no Yaiba: Mugen ...  ███░░░░░░░░░░░░░░░░░░░░░░   1/7
+    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
+    Ganbare Douki-chan - ONA     ████████████████░░░░░░░░░   8/12
+    Mushoku Tensei: Isekai I...  ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
