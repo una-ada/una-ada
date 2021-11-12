@@ -25,9 +25,9 @@
 
 <!-- RECENT-ANIME:START -->
 
+    Shoujo Shuumatsu Ryokou      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Urasekai Picnic              ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Sono Bisque Doll wa Koi ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Kuro no Danshou - OVA        ████████████░░░░░░░░░░░░░   2/4
     Kimetsu no Yaiba: Mugen ...  ███░░░░░░░░░░░░░░░░░░░░░░   1/7
-    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
-    Ganbare Douki-chan - ONA     ████████████████░░░░░░░░░   8/12
-    Mushoku Tensei: Isekai I...  ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
