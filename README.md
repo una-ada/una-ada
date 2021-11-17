@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
-    Shoujo Shuumatsu Ryokou      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Urasekai Picnic              ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Sono Bisque Doll wa Koi ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Kuro no Danshou - OVA        ████████████░░░░░░░░░░░░░   2/4
-    Kimetsu no Yaiba: Mugen ...  ███░░░░░░░░░░░░░░░░░░░░░░   1/7
+    Jahy-sama wa Kujikenai!      ████████░░░░░░░░░░░░░░░░░   7/20
+    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
+    Fullmetal Alchemist          ██████████░░░░░░░░░░░░░░░   21/51
+    Akagami no Shirayuki-hime    █████████████████████████   12/12
+    Xian Wang de Richang She...  ████████░░░░░░░░░░░░░░░░░   4/12
 <!-- RECENT-ANIME:END -->
