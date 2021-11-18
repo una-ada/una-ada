@@ -28,9 +28,9 @@ JSON         1 min           ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Date A Bullet: Dead or B...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/1
+    Tsuki ga Michibiku Iseka...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Hacka Doll The Animation     █████████████████████████   13/13
     Jahy-sama wa Kujikenai!      ████████░░░░░░░░░░░░░░░░░   7/20
     Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
-    Fullmetal Alchemist          ██████████░░░░░░░░░░░░░░░   21/51
-    Akagami no Shirayuki-hime    █████████████████████████   12/12
-    Xian Wang de Richang She...  ████████░░░░░░░░░░░░░░░░░   4/12
 <!-- RECENT-ANIME:END -->
