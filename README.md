@@ -29,9 +29,9 @@ CSS          6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Tsuki to Laika to Nosfer...  ██████████████░░░░░░░░░░░   7/12
+    Mieruko-chan                 ██████████████░░░░░░░░░░░   7/12
+    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
+    Jahy-sama wa Kujikenai!      ███████████████░░░░░░░░░░   12/20
     Date A Bullet: Dead or B...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/1
-    Tsuki ga Michibiku Iseka...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Hacka Doll The Animation     █████████████████████████   13/13
-    Jahy-sama wa Kujikenai!      ████████░░░░░░░░░░░░░░░░░   7/20
-    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
 <!-- RECENT-ANIME:END -->
