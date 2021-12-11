@@ -27,9 +27,9 @@ JSON         4 mins          ████░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    To LOVE-Ru Darkness 2nd      ██████████████████░░░░░░░   9/12
     Cardcaptor Sakura            ██████████████░░░░░░░░░░░   40/70
     Stella Jogakuin Koutou-k...  █████████████████████████   13/13
     Tsuki to Laika to Nosfer...  ██████████████░░░░░░░░░░░   7/12
     Mieruko-chan                 ██████████████░░░░░░░░░░░   7/12
-    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
 <!-- RECENT-ANIME:END -->
