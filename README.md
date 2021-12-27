@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
-    Love Stage!!                 █████████████████░░░░░░░░   7/10
-    Uchuu Patrol Luluco          █████████████████████████   13/13
-    Kobayashi-san Chi no Mai...  █████████████████████████   12/12
-    Mieruko-chan                 ████████████████████░░░░░   10/12
-    Mushoku Tensei: Isekai I...  ██████████████████░░░░░░░   9/12
+    Princess Connect! Re:Div...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Xian Wang de Richang She...  ██████████████████░░░░░░░   9/12
+    Tsuki to Laika to Nosfer...  █████████████████████████   12/12
+    Mushoku Tensei: Isekai I...  █████████████████████████   12/12
+    Mieruko-chan                 █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
