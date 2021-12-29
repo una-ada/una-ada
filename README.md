@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
+    Sword Art Online: Aliciz...  █████████████████████████   11/11
+    Sword Art Online: Aliciz...  █████████████████████████   12/12
     Princess Connect! Re:Div...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Xian Wang de Richang She...  ██████████████████░░░░░░░   9/12
     Tsuki to Laika to Nosfer...  █████████████████████████   12/12
-    Mushoku Tensei: Isekai I...  █████████████████████████   12/12
-    Mieruko-chan                 █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
