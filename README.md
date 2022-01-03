@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
+    Re:Zero kara Hajimeru Br...  █████████████████████████   11/11
+    Akagami no Shirayuki-him...  █████████████████████████   12/12
     Sword Art Online: Aliciz...  █████████████████████████   11/11
     Sword Art Online: Aliciz...  █████████████████████████   12/12
     Princess Connect! Re:Div...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Xian Wang de Richang She...  ██████████████████░░░░░░░   9/12
-    Tsuki to Laika to Nosfer...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
