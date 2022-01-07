@@ -28,9 +28,9 @@ JSON         4 mins          █▓░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Nagato Yuki-chan no Shou...  ███████░░░░░░░░░░░░░░░░░░   5/16
     Re:Zero kara Hajimeru Br...  █████████████████████████   11/11
     Akagami no Shirayuki-him...  █████████████████████████   12/12
     Sword Art Online: Aliciz...  █████████████████████████   11/11
     Sword Art Online: Aliciz...  █████████████████████████   12/12
-    Princess Connect! Re:Div...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
