@@ -29,9 +29,9 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Date A Live III              ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Date A Live II               █████████████████████████   10/10
     Nagato Yuki-chan no Shou...  █████████████████████████   16/16
     Re:Zero kara Hajimeru Br...  █████████████████████████   11/11
     Akagami no Shirayuki-him...  █████████████████████████   12/12
-    Sword Art Online: Aliciz...  █████████████████████████   11/11
-    Sword Art Online: Aliciz...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
