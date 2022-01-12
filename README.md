@@ -29,9 +29,9 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Date A Live III              ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Enen no Shouboutai: Ni n...  █████████████░░░░░░░░░░░░   13/24
+    Leadale no Daichi nite       ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Kaijin Kaihatsu-bu no Ku...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Date A Live III              █████████████████████████   12/12
     Date A Live II               █████████████████████████   10/10
-    Nagato Yuki-chan no Shou...  █████████████████████████   16/16
-    Re:Zero kara Hajimeru Br...  █████████████████████████   11/11
-    Akagami no Shirayuki-him...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
