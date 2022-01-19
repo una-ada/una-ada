@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
-    Kaguya-sama wa Kokuraset...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Dolls&#39; Frontline         ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
-    Shikkakumon no Saikyou K...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Kenja no Deshi wo Nanoru...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Sono Bisque Doll wa Koi ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Meikyuu Black Company        ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Jaku-Chara Tomozaki-kun      █████████████████████████   12/12
+    Jaku-Chara Tomozaki-kun ...  █████████████████████████   2/2
+    Gamers!                      █████████████████████████   12/12
+    Oshi ga Budoukan Ittekur...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
