@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
-    Meikyuu Black Company        ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Jaku-Chara Tomozaki-kun      █████████████████████████   12/12
-    Jaku-Chara Tomozaki-kun ...  █████████████████████████   2/2
-    Gamers!                      █████████████████████████   12/12
-    Oshi ga Budoukan Ittekur...  █████████████████████████   12/12
+    Kafun Shoujo Chuuihou! T...  █████████████████████████   4/4
+    Kaijin Kaihatsu-bu no Ku...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
+    Slow Loop                    ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Baraou no Souretsu           █░░░░░░░░░░░░░░░░░░░░░░░░   1/24
+    Akebi-chan no Sailor-fuku    ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
 <!-- RECENT-ANIME:END -->
