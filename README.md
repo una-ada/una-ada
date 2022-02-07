@@ -25,9 +25,9 @@ No Activity tracked this Week
 
 <!-- RECENT-ANIME:START -->
 
+    Darwin&#39;s Game                █████████████████████████   11/11
     Kafun Shoujo Chuuihou! T...  █████████████████████████   4/4
     Kaijin Kaihatsu-bu no Ku...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
     Slow Loop                    ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Baraou no Souretsu           █░░░░░░░░░░░░░░░░░░░░░░░░   1/24
-    Akebi-chan no Sailor-fuku    ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
 <!-- RECENT-ANIME:END -->
