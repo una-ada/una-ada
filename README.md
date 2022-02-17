@@ -29,9 +29,9 @@ JavaScript   1 min           ██░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    High School DxD BorN         ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    High School DxD New          █████████████████████████   12/12
-    High School DxD              █████████████████████████   12/12
-    Kiseijuu: Sei no Kakuritsu   █████████████████████████   24/24
-    Darwin&#39;s Game                █████████████████████████   11/11
+    Maria†Holic                  ████████████████░░░░░░░░░   8/12
+    Hataraku Maou-sama! 2nd ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Slow Loop                    ████████░░░░░░░░░░░░░░░░░   4/12
+    Sono Bisque Doll wa Koi ...  ██████████░░░░░░░░░░░░░░░   5/12
+    Maria†Holic Alive            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
