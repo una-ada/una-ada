@@ -29,9 +29,9 @@ JavaScript   1 min           ██░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    High School DxD New          ██████████████████░░░░░░░   9/12
+    High School DxD BorN         ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    High School DxD New          █████████████████████████   12/12
     High School DxD              █████████████████████████   12/12
     Kiseijuu: Sei no Kakuritsu   █████████████████████████   24/24
     Darwin&#39;s Game                █████████████████████████   11/11
-    Kafun Shoujo Chuuihou! T...  █████████████████████████   4/4
 <!-- RECENT-ANIME:END -->
