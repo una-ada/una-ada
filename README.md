@@ -29,9 +29,9 @@ JavaScript   1 min           ██░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Isekai wa Smartphone to ...  ████████████░░░░░░░░░░░░░   6/12
     Maria†Holic                  ████████████████░░░░░░░░░   8/12
     Hataraku Maou-sama! 2nd ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Slow Loop                    ████████░░░░░░░░░░░░░░░░░   4/12
     Sono Bisque Doll wa Koi ...  ██████████░░░░░░░░░░░░░░░   5/12
-    Maria†Holic Alive            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
