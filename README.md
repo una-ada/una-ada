@@ -16,10 +16,13 @@
 **Weekly Development Report**
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown     48 mins         ██████████████████████░░░   87.44 % 
-TypeScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Markdown     48 mins         ██████████████████████░░░   87.44 %
+TypeScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 **Recently Watched Anime**
