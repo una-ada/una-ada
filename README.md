@@ -28,9 +28,9 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Deep Insanity: The Lost ...  ████████████░░░░░░░░░░░░░   6/12
     Yofukashi no Uta             ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Isekai wa Smartphone to ...  █████████████████████████   12/12
     High School DxD Hero         ████░░░░░░░░░░░░░░░░░░░░░   2/12
     High School DxD Hero: Ta...  █████████████████████████   1/1
-    High School DxD BorN         █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
