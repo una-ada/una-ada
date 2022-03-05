@@ -28,9 +28,9 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Umibe no Étranger - Movie    ░░░░░░░░░░░░░░░░░░░░░░░░░   0/1
     Deep Insanity: The Lost ...  ████████████░░░░░░░░░░░░░   6/12
     Yofukashi no Uta             ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Isekai wa Smartphone to ...  █████████████████████████   12/12
     High School DxD Hero         ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    High School DxD Hero: Ta...  █████████████████████████   1/1
 <!-- RECENT-ANIME:END -->
