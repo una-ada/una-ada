@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     6 mins          █████████████████████████   100.00 %
+Markdown     15 mins         █████████████████████████   100.00 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
