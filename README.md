@@ -28,9 +28,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Slime Taoshite 300-nen, ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Seijo no Maryoku wa Bann...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Mushoku Tensei: Isekai I...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Eiyuuou, Bu wo Kiwameru ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Isekai Shoukan wa Nidome...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Akebi-chan no Sailor-fuku    ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Shokei Shoujo no Virgin ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
+    Violet Evergarden            █████████████████████████   13/13
+    Shikkakumon no Saikyou K...  ████████████████░░░░░░░░░   8/12
+    Komi-san wa, Comyushou d...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
