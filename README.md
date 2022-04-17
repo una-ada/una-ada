@@ -28,9 +28,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Akebi-chan no Sailor-fuku    ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Shokei Shoujo no Virgin ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
-    Violet Evergarden            █████████████████████████   13/13
-    Shikkakumon no Saikyou K...  ████████████████░░░░░░░░░   8/12
-    Komi-san wa, Comyushou d...  █████████████████████████   12/12
+    Aharen-san wa Hakarenai      ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
+    Machikado Mazoku: 2-choume   ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Gaikotsu Kishi-sama, Tad...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Kawaii dake ja Nai Shiki...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Yuusha, Yamemasu             ████░░░░░░░░░░░░░░░░░░░░░   2/12
 <!-- RECENT-ANIME:END -->
