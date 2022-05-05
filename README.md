@@ -5,13 +5,13 @@
 <p align="center">
   <a href="https://anarchy.website/">Blog</a> &bull;
   <a href="https://una-ada.github.io/">Portfolio</a> &bull;
-  <a href="https://twitter.com/unaxiii">Twitter</a>
+  <a href="https://twitter.com/xn__z7x">Twitter</a>
 </p>
 
 - Currently studying MERN, MEAN, and Haskell
 - Planning to study WASM, Blender, and Unity
 - Former physics and mathematics student at UWRF
-- Interested in animation and design
+- Interested in animation and color science
 
 **Weekly Development Report**
 
