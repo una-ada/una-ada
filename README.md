@@ -32,9 +32,9 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Koroshi Ai                   ██████████████████████░░░   11/12
     Toaru Kagaku no Railgun T    █████████░░░░░░░░░░░░░░░░   9/25
     Maria†Holic                  █████████████████████████   12/12
     To LOVE-Ru Darkness 2nd ...  █████████████████████████   2/2
     To LOVE-Ru Darkness 2nd      █████████████████████████   12/12
-    Log Horizon: Entaku Houkai   █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
