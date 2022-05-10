@@ -32,7 +32,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Kaguya-sama wa Kokuraset...  ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
+    Kaguya-sama wa Kokuraset...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Koroshi Ai                   ██████████████████████░░░   11/12
     Toaru Kagaku no Railgun T    █████████░░░░░░░░░░░░░░░░   9/25
     Maria†Holic                  █████████████████████████   12/12
