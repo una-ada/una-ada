@@ -32,9 +32,9 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Tejina-senpai                █████████████████████████   12/12
     Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
     Toradora!                    █████████████████████████   25/25
     Kaguya-sama wa Kokuraset...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Koroshi Ai                   ██████████████████████░░░   11/12
-    Toaru Kagaku no Railgun T    █████████░░░░░░░░░░░░░░░░   9/25
 <!-- RECENT-ANIME:END -->
