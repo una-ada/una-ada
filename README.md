@@ -30,9 +30,9 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Chikyuugai Shounen Shouj...  █████████████████████████   6/6
+    Shinchou Yuusha: Kono Yu...  █████████████████████████   12/12
     Tejina-senpai                █████████████████████████   12/12
     Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
     Toradora!                    █████████████████████████   25/25
-    Kaguya-sama wa Kokuraset...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Koroshi Ai                   ██████████████████████░░░   11/12
 <!-- RECENT-ANIME:END -->
