@@ -28,9 +28,9 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Tantei wa Mou, Shindeiru.    █████████████████████████   12/12
     Chikyuugai Shounen Shouj...  █████████████████████████   6/6
     Shinchou Yuusha: Kono Yu...  █████████████████████████   12/12
     Tejina-senpai                █████████████████████████   12/12
     Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
-    Toradora!                    █████████████████████████   25/25
 <!-- RECENT-ANIME:END -->
