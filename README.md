@@ -31,9 +31,9 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Spy x Family                 ██████████████░░░░░░░░░░░   7/12
     Tantei wa Mou, Shindeiru.    █████████████████████████   12/12
     Chikyuugai Shounen Shouj...  █████████████████████████   6/6
     Shinchou Yuusha: Kono Yu...  █████████████████████████   12/12
     Tejina-senpai                █████████████████████████   12/12
-    Komi-san wa, Comyushou d...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
 <!-- RECENT-ANIME:END -->
