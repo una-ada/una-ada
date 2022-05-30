@@ -32,9 +32,9 @@ TypeScript   1 hr 56 mins    █▓░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Shin no Nakama ja Nai to...  █████░░░░░░░░░░░░░░░░░░░░   3/13
+    Tensai Ouji no Akaji Kok...  █████████████████████████   12/12
     Spy x Family                 ██████████████░░░░░░░░░░░   7/12
     Tantei wa Mou, Shindeiru.    █████████████████████████   12/12
     Chikyuugai Shounen Shouj...  █████████████████████████   6/6
-    Shinchou Yuusha: Kono Yu...  █████████████████████████   12/12
-    Tejina-senpai                █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
