@@ -32,9 +32,9 @@ CSS          1 hr 17 mins    █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Shin no Nakama ja Nai to...  █████░░░░░░░░░░░░░░░░░░░░   3/13
-    Tensai Ouji no Akaji Kok...  █████████████████████████   12/12
-    Spy x Family                 ██████████████░░░░░░░░░░░   7/12
-    Tantei wa Mou, Shindeiru.    █████████████████████████   12/12
-    Chikyuugai Shounen Shouj...  █████████████████████████   6/6
+    Shijou Saikyou no Daimao...  ██████████████░░░░░░░░░░░   7/12
+    Kaguya-sama wa Kokuraset...  ████████████░░░░░░░░░░░░░   6/12
+    Shikkakumon no Saikyou K...  █████████████████████████   12/12
+    Shin no Nakama ja Nai to...  █████████░░░░░░░░░░░░░░░░   5/13
+    Spy x Family                 ████████████████░░░░░░░░░   8/12
 <!-- RECENT-ANIME:END -->
