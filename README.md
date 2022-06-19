@@ -32,9 +32,9 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Youkoso Jitsuryoku Shijo...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Isekai Meikyuu de Harem wo   ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Cyberpunk: Edgerunners -...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/10
     Sentou Yousei Yukikaze -...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/5
     Shijou Saikyou no Daimao...  ██████████████░░░░░░░░░░░   7/12
-    Kaguya-sama wa Kokuraset...  ████████████░░░░░░░░░░░░░   6/12
-    Shikkakumon no Saikyou K...  █████████████████████████   12/12
-    Shin no Nakama ja Nai to...  █████████░░░░░░░░░░░░░░░░   5/13
 <!-- RECENT-ANIME:END -->
