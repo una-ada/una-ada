@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Spy x Family Part 2          ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
+    Spy x Family                 █████████████████████████   12/12
     Kaguya-sama wa Kokuraset...  ███████████████████░░░░░░   10/13
     Maoujou de Oyasumi           ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Youkoso Jitsuryoku Shijo...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Isekai Meikyuu de Harem wo   ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Cyberpunk: Edgerunners -...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/10
 <!-- RECENT-ANIME:END -->
