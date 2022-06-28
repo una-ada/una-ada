@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Dungeon ni Deai wo Motom...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Made in Abyss: Retsujits...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Spy x Family Part 2          ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
     Spy x Family                 █████████████████████████   12/12
-    Kaguya-sama wa Kokuraset...  ███████████████████░░░░░░   10/13
-    Maoujou de Oyasumi           ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Youkoso Jitsuryoku Shijo...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
