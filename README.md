@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Kono Bijutsubu ni wa Mon...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Machikado Mazoku: 2-choume   ████████████████░░░░░░░░░   8/12
     Fantasy Bishoujo Juniku ...  ██████████████████░░░░░░░   9/12
     Aharen-san wa Hakarenai      ██████████░░░░░░░░░░░░░░░   5/12
-    Machikado Mazoku: 2-choume   ██████████████░░░░░░░░░░░   7/12
-    The God of High School       █████████░░░░░░░░░░░░░░░░   5/13
-    Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Overlord IV                  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
 <!-- RECENT-ANIME:END -->
