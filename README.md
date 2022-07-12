@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Ryuu no Haisha - Special     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/2
+    RPG Fudousan                 ████████████░░░░░░░░░░░░░   6/12
     Kono Bijutsubu ni wa Mon...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Machikado Mazoku: 2-choume   ████████████████░░░░░░░░░   8/12
     Fantasy Bishoujo Juniku ...  ██████████████████░░░░░░░   9/12
-    Aharen-san wa Hakarenai      ██████████░░░░░░░░░░░░░░░   5/12
-    Overlord IV                  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
 <!-- RECENT-ANIME:END -->
