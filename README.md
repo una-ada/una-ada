@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    CMFU Xueyuan: Shenshi Ji...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/24
+    Quanzhi Gaoshou 3 - ONA      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Quanzhi Gaoshou 2 - ONA      █████████████████████████   12/12
     Summertime Render            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/25
     Ryuu no Haisha - Special     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/2
-    RPG Fudousan                 ████████████░░░░░░░░░░░░░   6/12
-    Kono Bijutsubu ni wa Mon...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Machikado Mazoku: 2-choume   ████████████████░░░░░░░░░   8/12
 <!-- RECENT-ANIME:END -->
