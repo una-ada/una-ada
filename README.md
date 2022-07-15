@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    CMFU Xueyuan: Shenshi Ji...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/24
-    Quanzhi Gaoshou 3 - ONA      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Quanzhi Gaoshou 2 - ONA      █████████████████████████   12/12
-    Summertime Render            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/25
-    Ryuu no Haisha - Special     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/2
+    Feng Ling Yu Xiu - ONA       ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Urahara                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Xiao Mo Tou Baolu La! - ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Isekai Meikyuu de Harem wo   ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Yofukashi no Uta             █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
 <!-- RECENT-ANIME:END -->
