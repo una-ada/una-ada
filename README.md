@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Feng Ling Yu Xiu - ONA       ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Urahara                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Xiao Mo Tou Baolu La! - ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Isekai Meikyuu de Harem wo   ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Yofukashi no Uta             █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
+    Mairimashita! Iruma-kun ...  ████░░░░░░░░░░░░░░░░░░░░░   4/21
+    Tsuki ga Michibiku Iseka...  █████████████████████████   12/12
+    Yuri no Aida ni Hasamare...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Bocchi the Rock!             ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Fumetsu no Anata e 2nd S...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
