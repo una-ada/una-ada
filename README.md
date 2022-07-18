@@ -27,7 +27,7 @@ JSON   0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Mairimashita! Iruma-kun ...  ████████████████░░░░░░░░░   14/21
+    Mairimashita! Iruma-kun ...  █████████████████████████   21/21
     Tsuki ga Michibiku Iseka...  █████████████████████████   12/12
     Yuri no Aida ni Hasamare...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Bocchi the Rock!             ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
