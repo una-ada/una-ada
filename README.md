@@ -29,9 +29,9 @@ JSON         23 mins         ███████▒░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Hyakuren no Haou to Seiy...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Kimi to Boku no Saigo no...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Sarazanmai                   ░░░░░░░░░░░░░░░░░░░░░░░░░   0/11
     Kenja no Deshi wo Nanoru...  █████████████████████████   12/12
     Arifureta Shokugyou de S...  █████████████████████████   12/12
-    New Panty &amp; Stocking wit...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Ore, Twintail ni Narimasu.   ██████████░░░░░░░░░░░░░░░   5/12
 <!-- RECENT-ANIME:END -->
