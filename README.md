@@ -29,9 +29,9 @@ JSON         23 mins         ███████▒░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Kawaikereba Hentai demo ...  ██████████░░░░░░░░░░░░░░░   5/12
+    Nande Koko ni Sensei ga!...  █████████████████████████   1/1
+    Nande Koko ni Sensei ga!?    █████████████████████████   12/12
     Hyakuren no Haou to Seiy...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Kimi to Boku no Saigo no...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Sarazanmai                   ░░░░░░░░░░░░░░░░░░░░░░░░░   0/11
-    Kenja no Deshi wo Nanoru...  █████████████████████████   12/12
-    Arifureta Shokugyou de S...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
