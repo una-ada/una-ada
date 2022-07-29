@@ -28,9 +28,9 @@ JavaScript   12 mins         ██████▒░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Kawaikereba Hentai demo ...  ██████████░░░░░░░░░░░░░░░   5/12
-    Nande Koko ni Sensei ga!...  █████████████████████████   1/1
-    Nande Koko ni Sensei ga!?    █████████████████████████   12/12
-    Hyakuren no Haou to Seiy...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Kimi to Boku no Saigo no...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Kaguya-sama wa Kokuraset...  █████████████████████████   13/13
+    Saikyou Onmyouji no Isek...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Yofukashi no Uta             ███░░░░░░░░░░░░░░░░░░░░░░   2/13
+    Overlord IV                  ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
+    Lycoris Recoil               █████░░░░░░░░░░░░░░░░░░░░   3/13
 <!-- RECENT-ANIME:END -->
