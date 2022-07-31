@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Kawaikereba Hentai demo ...  █████████████████████████   12/12
-    Kaguya-sama wa Kokuraset...  █████████████████████████   13/13
-    Saikyou Onmyouji no Isek...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Yofukashi no Uta             ███░░░░░░░░░░░░░░░░░░░░░░   2/13
-    Overlord IV                  ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
+    Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
+    Overlord IV                  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
+    Saikin Yatotta Maid ga A...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
+    Lycoris Recoil               ███████░░░░░░░░░░░░░░░░░░   4/13
+    Yofukashi no Uta             █████░░░░░░░░░░░░░░░░░░░░   3/13
 <!-- RECENT-ANIME:END -->
