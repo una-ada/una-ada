@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Yofukashi no Uta             ███████░░░░░░░░░░░░░░░░░░   4/13
+    Hataraku Maou-sama!!         ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
     Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
     Overlord IV                  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
     Saikin Yatotta Maid ga A...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
-    Lycoris Recoil               ███████░░░░░░░░░░░░░░░░░░   4/13
-    Yofukashi no Uta             █████░░░░░░░░░░░░░░░░░░░░   3/13
 <!-- RECENT-ANIME:END -->
