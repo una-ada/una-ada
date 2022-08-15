@@ -30,9 +30,9 @@ JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Yofukashi no Uta             ███████░░░░░░░░░░░░░░░░░░   4/13
-    Hataraku Maou-sama!!         ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
-    Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
-    Overlord IV                  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
-    Saikin Yatotta Maid ga A...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
+    Kakegurui Twin - ONA         █████████████████████████   6/6
+    Akiba&#39;s Trip The Animation   ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
+    Lycoris Recoil               █████████████░░░░░░░░░░░░   7/13
+    Yofukashi no Uta             ███████████░░░░░░░░░░░░░░   6/13
+    Hataraku Maou-sama!!         ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
 <!-- RECENT-ANIME:END -->
