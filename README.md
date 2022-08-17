@@ -33,5 +33,5 @@ Other        2 hrs 9 mins    ███▓░░░░░░░░░░░░░
     Akiba&#39;s Trip The Animation   ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
     Lycoris Recoil               █████████████░░░░░░░░░░░░   7/13
     Yofukashi no Uta             ███████████░░░░░░░░░░░░░░   6/13
-    Hataraku Maou-sama!!         ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
+    Hataraku Maou-sama!!         ██████████░░░░░░░░░░░░░░░   5/12
 <!-- RECENT-ANIME:END -->
