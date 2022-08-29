@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Kakegurui Twin - ONA         █████████████████████████   6/6
-    Akiba&#39;s Trip The Animation   ░░░░░░░░░░░░░░░░░░░░░░░░░   0/13
-    Lycoris Recoil               █████████████░░░░░░░░░░░░   7/13
-    Yofukashi no Uta             ███████████░░░░░░░░░░░░░░   6/13
-    Hataraku Maou-sama!!         ██████████░░░░░░░░░░░░░░░   5/12
+    Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
+    Overlord IV                  ███████████████░░░░░░░░░░   8/13
+    Lycoris Recoil               ███████████████░░░░░░░░░░   8/13
+    Hataraku Maou-sama!!         ████████████░░░░░░░░░░░░░   6/12
+    Yofukashi no Uta             █████████████░░░░░░░░░░░░   7/13
 <!-- RECENT-ANIME:END -->
