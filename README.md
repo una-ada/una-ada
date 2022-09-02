@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Ano Natsu de Matteru         █████████████████████████   12/12
     Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
     Overlord IV                  ███████████████░░░░░░░░░░   8/13
     Lycoris Recoil               ███████████████░░░░░░░░░░   8/13
     Hataraku Maou-sama!!         ████████████░░░░░░░░░░░░░   6/12
-    Yofukashi no Uta             █████████████░░░░░░░░░░░░   7/13
 <!-- RECENT-ANIME:END -->
