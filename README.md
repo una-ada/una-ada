@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Hoshiai no Sora              ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Ano Natsu de Matteru         █████████████████████████   12/12
     Isekai Ojisan                ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
     Overlord IV                  ███████████████░░░░░░░░░░   8/13
     Lycoris Recoil               ███████████████░░░░░░░░░░   8/13
-    Hataraku Maou-sama!!         ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
