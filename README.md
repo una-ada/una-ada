@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Yofukashi no Uta             ███████████████░░░░░░░░░░   8/13
-    Hataraku Maou-sama!!         ██████████████░░░░░░░░░░░   7/12
-    Jujutsu Kaisen               █████████████████████████   24/24
-    Hoshiai no Sora              ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Ano Natsu de Matteru         █████████████████████████   12/12
+    Plunderer                    ███████████████████░░░░░░   19/24
+    Lycoris Recoil               ███████████████████░░░░░░   10/13
+    Yofukashi no Uta             █████████████████░░░░░░░░   9/13
+    Hataraku Maou-sama!!         ████████████████░░░░░░░░░   8/12
+    Overlord IV                  █████████████████░░░░░░░░   9/13
 <!-- RECENT-ANIME:END -->
