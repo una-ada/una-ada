@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Xian Wang de Richang She...  █████████████████████████   12/12
+    Komi-san wa, Comyushou d...  █████████████████████████   12/12
     Plunderer                    ███████████████████░░░░░░   19/24
     Lycoris Recoil               ███████████████████░░░░░░   10/13
     Yofukashi no Uta             █████████████████░░░░░░░░   9/13
-    Hataraku Maou-sama!!         ████████████████░░░░░░░░░   8/12
-    Overlord IV                  █████████████████░░░░░░░░   9/13
 <!-- RECENT-ANIME:END -->
