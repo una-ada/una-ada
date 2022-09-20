@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Megami-ryou no Ryoubo-kun.   █████████████████████████   10/10
-    Bubble - ONA                 █████████████████████████   1/1
-    Cyberpunk: Edgerunners -...  █████████████████████████   10/10
-    Gaikotsu Kishi-sama, Tad...  █████████████████████████   12/12
-    Xian Wang de Richang She...  █████████████████████████   12/12
+    Plunderer                    █████████████████████████   24/24
+    Lycoris Recoil               ███████████████████████░░   12/13
+    Yofukashi no Uta             █████████████████████░░░░   11/13
+    Hataraku Maou-sama!!         ████████████████████░░░░░   10/12
+    Overlord IV                  █████████████████████░░░░   11/13
 <!-- RECENT-ANIME:END -->
