@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    86 Part 2                    █████████████████████████   12/12
+    86                           █████████████████████████   11/11
     Plunderer                    █████████████████████████   24/24
     Lycoris Recoil               ███████████████████████░░   12/13
     Yofukashi no Uta             █████████████████████░░░░   11/13
-    Hataraku Maou-sama!!         ████████████████████░░░░░   10/12
-    Overlord IV                  █████████████████████░░░░   11/13
 <!-- RECENT-ANIME:END -->
