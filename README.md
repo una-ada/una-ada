@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Otome Game Sekai wa Mob ...  ██████████████░░░░░░░░░░░   7/12
+    Sakura Quest                 ██████░░░░░░░░░░░░░░░░░░░   6/25
+    Isekai Yakkyoku              ██████████████████░░░░░░░   9/12
     86 Part 2                    █████████████████████████   12/12
     86                           █████████████████████████   11/11
-    Plunderer                    █████████████████████████   24/24
-    Lycoris Recoil               ███████████████████████░░   12/13
-    Yofukashi no Uta             █████████████████████░░░░   11/13
 <!-- RECENT-ANIME:END -->
