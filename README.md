@@ -27,8 +27,8 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Sakura Quest                 ████████████████████░░░░░   20/25
     Otome Game Sekai wa Mob ...  █████████████████████████   12/12
-    Sakura Quest                 ██████░░░░░░░░░░░░░░░░░░░   6/25
     Isekai Yakkyoku              ██████████████████░░░░░░░   9/12
     86 Part 2                    █████████████████████████   12/12
     86                           █████████████████████████   11/11
