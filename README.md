@@ -28,9 +28,9 @@ Markdown     3 mins          ██████████▒░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Knight&#39;s &amp; Magic             █████████████████████████   13/13
-    Tate no Yuusha no Nariag...  █████████████████████████   25/25
-    Tate no Yuusha no Nariag...  █████████████████████████   13/13
-    Akuyaku Reijou nanode La...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
-    Xian Wang de Richang She...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Shinmai Renkinjutsushi n...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Yuusha Party wo Tsuihou ...  █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
+    Romantic Killer - ONA        ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Akiba Maid Sensou            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Arknights: Reimei Zensou     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
