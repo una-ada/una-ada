@@ -29,9 +29,9 @@ JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Yowai 5000-nen no Sousho...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Futoku no Guild              ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Shinobi no Ittoki            ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Ben-To                       ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Shinmai Renkinjutsushi n...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Yuusha Party wo Tsuihou ...  █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
-    Romantic Killer - ONA        ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Akiba Maid Sensou            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Arknights: Reimei Zensou     ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
