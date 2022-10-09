@@ -28,9 +28,9 @@ JavaScript   0 secs          █░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Yowai 5000-nen no Sousho...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Futoku no Guild              ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Shinobi no Ittoki            ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Ben-To                       ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Shinmai Renkinjutsushi n...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Tensei Kenja no Isekai L...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Isekai Yakkyoku              █████████████████████████   12/12
+    Bastard!! Ankoku no Haka...  █████░░░░░░░░░░░░░░░░░░░░   3/13
+    Yowai 5000-nen no Sousho...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Ben-To                       ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
