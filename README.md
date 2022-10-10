@@ -28,9 +28,9 @@ JavaScript   0 secs          █░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Tensei Kenja no Isekai L...  ████████░░░░░░░░░░░░░░░░░   4/12
-    Isekai Yakkyoku              █████████████████████████   12/12
-    Bastard!! Ankoku no Haka...  █████░░░░░░░░░░░░░░░░░░░░   3/13
-    Yowai 5000-nen no Sousho...  ████████░░░░░░░░░░░░░░░░░   4/12
-    Ben-To                       ████████████░░░░░░░░░░░░░   6/12
+    Seiken Densetsu: Legend ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Akiba Maid Sensou            ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Koukyuu no Karasu            █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
+    Noumin Kanren no Skill b...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Tensei Kenja no Isekai L...  ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
