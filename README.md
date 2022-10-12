@@ -28,9 +28,9 @@ JavaScript   0 secs          █░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Seiken Densetsu: Legend ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Akiba Maid Sensou            ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Koukyuu no Karasu            █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
-    Noumin Kanren no Skill b...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Tensei Kenja no Isekai L...  ████████████░░░░░░░░░░░░░   6/12
+    Chainsaw Man                 ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Shinobi no Ittoki            ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Shinmai Renkinjutsushi n...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Bocchi the Rock!             ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Koukyuu no Karasu            ███░░░░░░░░░░░░░░░░░░░░░░   2/13
 <!-- RECENT-ANIME:END -->
