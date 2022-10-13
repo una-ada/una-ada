@@ -28,9 +28,9 @@ JavaScript   0 secs          ████████████▒░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Chainsaw Man                 ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Shinobi no Ittoki            ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Shinmai Renkinjutsushi n...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Bocchi the Rock!             ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Koukyuu no Karasu            ███░░░░░░░░░░░░░░░░░░░░░░   2/13
+    Tensei shitara Ken Deshita   ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Do It Yourself!!             ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Youkoso Jitsuryoku Shijo...  █████████░░░░░░░░░░░░░░░░   5/13
+    Xian Wang de Richang She...  ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Mobile Suit Gundam: The ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
 <!-- RECENT-ANIME:END -->
