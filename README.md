@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Mamahaha no Tsurego ga M...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Jujutsu Kaisen 0 Movie -...  █████████████████████████   1/1
+    Youkoso Jitsuryoku Shijo...  █████████████████████████   13/13
     Tensei shitara Ken Deshita   ██████░░░░░░░░░░░░░░░░░░░   3/12
     Do It Yourself!!             ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Youkoso Jitsuryoku Shijo...  █████████░░░░░░░░░░░░░░░░   5/13
-    Xian Wang de Richang She...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Mobile Suit Gundam: The ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
 <!-- RECENT-ANIME:END -->
