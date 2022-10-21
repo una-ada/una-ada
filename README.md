@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Do It Yourself!!             ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Tensei shitara Ken Deshita   ████████░░░░░░░░░░░░░░░░░   4/12
+    Kage no Jitsuryokusha ni...  ███░░░░░░░░░░░░░░░░░░░░░░   3/20
     Chainsaw Man                 ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Noumin Kanren no Skill b...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Shinobi no Ittoki            ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Shinmai Renkinjutsushi n...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Mobile Suit Gundam: The ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
 <!-- RECENT-ANIME:END -->
