@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Kuro no Shoukanshi           █████████████████████████   12/12
     Do It Yourself!!             ██████░░░░░░░░░░░░░░░░░░░   3/12
     Tensei shitara Ken Deshita   ████████░░░░░░░░░░░░░░░░░   4/12
     Kage no Jitsuryokusha ni...  ███░░░░░░░░░░░░░░░░░░░░░░   3/20
     Chainsaw Man                 ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Noumin Kanren no Skill b...  ██████░░░░░░░░░░░░░░░░░░░   3/12
 <!-- RECENT-ANIME:END -->
