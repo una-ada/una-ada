@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Himegoto                     █████████████████████████   13/13
-    Kuro no Shoukanshi           █████████████████████████   12/12
-    Do It Yourself!!             ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Tensei shitara Ken Deshita   ████████░░░░░░░░░░░░░░░░░   4/12
-    Kage no Jitsuryokusha ni...  ███░░░░░░░░░░░░░░░░░░░░░░   3/20
+    Bocchi the Rock!             ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Spy x Family Part 2          ███████░░░░░░░░░░░░░░░░░░   4/13
+    Akuyaku Reijou nanode La...  ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
+    Akiba Meido Sensou           ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Choujin Koukousei-tachi ...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
