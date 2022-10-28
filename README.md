@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Chainsaw Man                 ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Shinmai Renkinjutsushi n...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Mobile Suit Gundam: The ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
+    Xian Wang de Richang She...  ██████████░░░░░░░░░░░░░░░   5/12
     Kaijin Kaihatsu-bu no Ku...  █████████████████████████   12/12
-    Bocchi the Rock!             ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Spy x Family Part 2          ███████░░░░░░░░░░░░░░░░░░   4/13
-    Akuyaku Reijou nanode La...  ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
-    Akiba Meido Sensou           ██████░░░░░░░░░░░░░░░░░░░   3/12
 <!-- RECENT-ANIME:END -->
