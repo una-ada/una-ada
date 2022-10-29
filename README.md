@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Tensei shitara Ken Deshita   ██████████░░░░░░░░░░░░░░░   5/12
+    Kage no Jitsuryokusha ni...  █████░░░░░░░░░░░░░░░░░░░░   4/20
     Chainsaw Man                 ██████░░░░░░░░░░░░░░░░░░░   3/12
     Shinmai Renkinjutsushi n...  ████████░░░░░░░░░░░░░░░░░   4/12
     Mobile Suit Gundam: The ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
-    Xian Wang de Richang She...  ██████████░░░░░░░░░░░░░░░   5/12
-    Kaijin Kaihatsu-bu no Ku...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
