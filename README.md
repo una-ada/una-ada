@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Back Street Girls: Gokud...  █████████████████████████   10/10
-    Romantic Killer - ONA        █████████████████████████   12/12
-    Tensei shitara Ken Deshita   ██████████░░░░░░░░░░░░░░░   5/12
-    Kage no Jitsuryokusha ni...  █████░░░░░░░░░░░░░░░░░░░░   4/20
-    Chainsaw Man                 ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Akuyaku Reijou nanode La...  ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
+    Spy x Family Part 2          █████████░░░░░░░░░░░░░░░░   5/13
+    Akiba Meido Sensou           ████████░░░░░░░░░░░░░░░░░   4/12
+    Do It Yourself!!             ████████░░░░░░░░░░░░░░░░░   4/12
+    Edens Zero                   █████████░░░░░░░░░░░░░░░░   9/25
 <!-- RECENT-ANIME:END -->
