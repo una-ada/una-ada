@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Edens Zero                   █████████████████████████   25/25
     Akuyaku Reijou nanode La...  ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
     Spy x Family Part 2          █████████░░░░░░░░░░░░░░░░   5/13
     Akiba Meido Sensou           ████████░░░░░░░░░░░░░░░░░   4/12
     Do It Yourself!!             ████████░░░░░░░░░░░░░░░░░   4/12
-    Edens Zero                   █████████░░░░░░░░░░░░░░░░   9/25
 <!-- RECENT-ANIME:END -->
