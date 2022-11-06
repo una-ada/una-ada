@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Edens Zero                   █████████████████████████   25/25
-    Akuyaku Reijou nanode La...  ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
-    Spy x Family Part 2          █████████░░░░░░░░░░░░░░░░   5/13
-    Akiba Meido Sensou           ████████░░░░░░░░░░░░░░░░░   4/12
-    Do It Yourself!!             ████████░░░░░░░░░░░░░░░░░   4/12
+    Do It Yourself!!             ██████████░░░░░░░░░░░░░░░   5/12
+    Kage no Jitsuryokusha ni...  ██████░░░░░░░░░░░░░░░░░░░   5/20
+    Tensei shitara Ken Deshita   ████████████░░░░░░░░░░░░░   6/12
+    Chainsaw Man                 ████████░░░░░░░░░░░░░░░░░   4/12
+    Shinmai Renkinjutsushi n...  ██████████░░░░░░░░░░░░░░░   5/12
 <!-- RECENT-ANIME:END -->
