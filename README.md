@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Sakura Quest                 █████████████████████████   25/25
+    Tenkuu Shinpan - ONA         █████████████████████████   12/12
     Do It Yourself!!             ██████████░░░░░░░░░░░░░░░   5/12
     Kage no Jitsuryokusha ni...  ██████░░░░░░░░░░░░░░░░░░░   5/20
     Tensei shitara Ken Deshita   ████████████░░░░░░░░░░░░░   6/12
-    Chainsaw Man                 ████████░░░░░░░░░░░░░░░░░   4/12
-    Shinmai Renkinjutsushi n...  ██████████░░░░░░░░░░░░░░░   5/12
 <!-- RECENT-ANIME:END -->
