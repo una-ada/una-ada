@@ -30,9 +30,9 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Spy x Family Part 2          ███████████░░░░░░░░░░░░░░   6/13
+    Bocchi the Rock!             ██████████░░░░░░░░░░░░░░░   5/12
+    Chainsaw Man                 ██████████░░░░░░░░░░░░░░░   5/12
     Sakura Quest                 █████████████████████████   25/25
     Tenkuu Shinpan - ONA         █████████████████████████   12/12
-    Do It Yourself!!             ██████████░░░░░░░░░░░░░░░   5/12
-    Kage no Jitsuryokusha ni...  ██████░░░░░░░░░░░░░░░░░░░   5/20
-    Tensei shitara Ken Deshita   ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
