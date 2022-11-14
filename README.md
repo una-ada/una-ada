@@ -30,9 +30,9 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Spy x Family Part 2          ███████████░░░░░░░░░░░░░░   6/13
-    Bocchi the Rock!             ██████████░░░░░░░░░░░░░░░   5/12
+    Kidou Senshi Gundam: Sui...  ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
+    Spy x Family Part 2          █████████████░░░░░░░░░░░░   7/13
+    Bocchi the Rock!             ████████████░░░░░░░░░░░░░   6/12
     Chainsaw Man                 ██████████░░░░░░░░░░░░░░░   5/12
     Sakura Quest                 █████████████████████████   25/25
-    Tenkuu Shinpan - ONA         █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
