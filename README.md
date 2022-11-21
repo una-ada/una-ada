@@ -31,9 +31,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Kidou Senshi Gundam: Sui...  ░░░░░░░░░░░░░░░░░░░░░░░░░   6/???
-    Spy x Family Part 2          █████████████░░░░░░░░░░░░   7/13
-    Bocchi the Rock!             ████████████░░░░░░░░░░░░░   6/12
-    Chainsaw Man                 ██████████░░░░░░░░░░░░░░░   5/12
-    Sakura Quest                 █████████████████████████   25/25
+    Akiba Meido Sensou           ██████████████░░░░░░░░░░░   7/12
+    Chainsaw Man                 ████████████░░░░░░░░░░░░░   6/12
+    Do It Yourself!!             ██████████████░░░░░░░░░░░   7/12
+    Kage no Jitsuryokusha ni...  ████████░░░░░░░░░░░░░░░░░   7/20
+    Spy x Family Part 2          ███████████████░░░░░░░░░░   8/13
 <!-- RECENT-ANIME:END -->
