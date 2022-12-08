@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Assassins Pride              █████████████████████████   12/12
-    Jingai-san no Yome           █████████████████████████   12/12
-    Akiba Meido Sensou           ████████████████░░░░░░░░░   8/12
-    Do It Yourself!!             ████████████████░░░░░░░░░   8/12
-    Tensei shitara Ken Deshita   ██████████████████░░░░░░░   9/12
+    Bocchi the Rock!             ██████████████████░░░░░░░   9/12
+    Do It Yourself!!             ██████████████████░░░░░░░   9/12
+    Kage no Jitsuryokusha ni...  ███████████░░░░░░░░░░░░░░   9/20
+    Tensei shitara Ken Deshita   ████████████████████░░░░░   10/12
+    Chainsaw Man                 ████████████████░░░░░░░░░   8/12
 <!-- RECENT-ANIME:END -->
