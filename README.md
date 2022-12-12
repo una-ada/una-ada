@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Spy x Family Part 2          █████████████████░░░░░░░░   9/13
+    Chainsaw Man                 ██████████████████░░░░░░░   9/12
     Bocchi the Rock!             ██████████████████░░░░░░░   9/12
     Do It Yourself!!             ██████████████████░░░░░░░   9/12
     Kage no Jitsuryokusha ni...  ███████████░░░░░░░░░░░░░░   9/20
-    Tensei shitara Ken Deshita   ████████████████████░░░░░   10/12
-    Chainsaw Man                 ████████████████░░░░░░░░░   8/12
 <!-- RECENT-ANIME:END -->
