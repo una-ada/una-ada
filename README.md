@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Bocchi the Rock!             ██████████████████████░░░   11/12
+    Do It Yourself!!             ████████████████████░░░░░   10/12
+    Kage no Jitsuryokusha ni...  ████████████░░░░░░░░░░░░░   10/20
+    Spy x Family Part 2          ███████████████████░░░░░░   10/13
     Sonny Boy                    ████████████░░░░░░░░░░░░░   6/12
-    Demi-chan wa Kataritai       █████████████████████████   12/12
-    Inou-Battle wa Nichijou-...  █████████████████████████   12/12
-    Shoujo Shuumatsu Ryokou      █████████████████████████   12/12
-    Rifle Is Beautiful           █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
