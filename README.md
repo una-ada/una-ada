@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Bocchi the Rock!             ██████████████████████░░░   11/12
-    Do It Yourself!!             ████████████████████░░░░░   10/12
-    Kage no Jitsuryokusha ni...  ████████████░░░░░░░░░░░░░   10/20
-    Spy x Family Part 2          ███████████████████░░░░░░   10/13
-    Sonny Boy                    ████████████░░░░░░░░░░░░░   6/12
+    Spy x Family Part 2          ███████████████████████░░   12/13
+    Chainsaw Man                 ██████████████████████░░░   11/12
+    Kage no Jitsuryokusha ni...  ███████████████░░░░░░░░░░   12/20
+    Jujutsu Kaisen 2nd Season    ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Kidou Senshi Gundam: Sui...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
