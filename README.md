@@ -31,5 +31,5 @@ No activity tracked
     Chainsaw Man                 ██████████████████████░░░   11/12
     Kage no Jitsuryokusha ni...  ███████████████░░░░░░░░░░   12/20
     Jujutsu Kaisen 2nd Season    ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Kidou Senshi Gundam: Sui...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Kidou Senshi Gundam: Sui...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
