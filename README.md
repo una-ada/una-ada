@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Mahou Shoujo Magical Des...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Spy x Family Part 2          ███████████████████████░░   12/13
     Chainsaw Man                 ██████████████████████░░░   11/12
     Kage no Jitsuryokusha ni...  ███████████████░░░░░░░░░░   12/20
     Jujutsu Kaisen 2nd Season    ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Kidou Senshi Gundam: Sui...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
