@@ -31,9 +31,9 @@ Other        28 mins         █░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Kinsou no Vermeil: Gakep...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Kage no Jitsuryokusha ni...  ████████████████░░░░░░░░░   13/20
+    Kinsou no Vermeil: Gakep...  █████████████████████████   12/12
     Peter Grill to Kenja no ...  ██████████░░░░░░░░░░░░░░░   5/12
     Oniichan wa Oshimai!         ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
     Bocchi the Rock!             █████████████████████████   12/12
-    Spy x Family Part 2          █████████████████████████   13/13
 <!-- RECENT-ANIME:END -->
