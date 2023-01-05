@@ -29,9 +29,9 @@ Other        21 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Ore dake Haireru Kakushi...  █████████████████████████   12/12
-    Kage no Jitsuryokusha ni...  ████████████████░░░░░░░░░   13/20
-    Kinsou no Vermeil: Gakep...  █████████████████████████   12/12
-    Peter Grill to Kenja no ...  ██████████░░░░░░░░░░░░░░░   5/12
-    Oniichan wa Oshimai!         ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
+    Ningen Fushin no Boukens...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Tensei Kenja no Isekai L...  █████████████████████████   12/12
+    Koroshi Ai                   █████████████████████████   12/12
+    Trinity Seven                ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Tensei Oujo to Tensai Re...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
 <!-- RECENT-ANIME:END -->
