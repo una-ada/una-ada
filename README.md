@@ -29,9 +29,9 @@ Other        21 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Ningen Fushin no Boukens...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Hyouken no Majutsushi ga...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Inu ni Nattara Suki na H...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Ningen Fushin no Boukens...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
     Tensei Kenja no Isekai L...  █████████████████████████   12/12
     Koroshi Ai                   █████████████████████████   12/12
-    Trinity Seven                ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Tensei Oujo to Tensai Re...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
 <!-- RECENT-ANIME:END -->
