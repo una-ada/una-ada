@@ -31,9 +31,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Kimetsu no Yaiba: Yuukak...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/11
-    Healer Girl                  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Tonikaku Kawaii              ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Senpai ga Uzai Kouhai no...  █████████████████████████   12/12
-    Kimetsu no Yaiba: Mugen ...  █████████████████████████   7/7
+    Yuusha Party wo Tsuihou ...  █████████████████████████   13/13
+    Mairimashita! Iruma-kun ...  ███████████████░░░░░░░░░░   13/21
+    Isekai Nonbiri Nouka         ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Saikyou Onmyouji no Isek...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
+    Tsundere Akuyaku Reijou ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
