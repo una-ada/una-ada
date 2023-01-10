@@ -30,9 +30,9 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Eiyuuou, Bu wo Kiwameru ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Ayakashi Triangle            ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
     Yuusha Party wo Tsuihou ...  █████████████████████████   13/13
     Mairimashita! Iruma-kun ...  ███████████████░░░░░░░░░░   13/21
     Isekai Nonbiri Nouka         ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Saikyou Onmyouji no Isek...  ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
-    Tsundere Akuyaku Reijou ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
