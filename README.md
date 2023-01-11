@@ -32,9 +32,9 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Rougo ni Sonaete Isekai ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Eiyuuou, Bu wo Kiwameru ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Ayakashi Triangle            ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
     Yuusha Party wo Tsuihou ...  █████████████████████████   13/13
     Mairimashita! Iruma-kun ...  ███████████████░░░░░░░░░░   13/21
-    Isekai Nonbiri Nouka         ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
 <!-- RECENT-ANIME:END -->
