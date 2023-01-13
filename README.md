@@ -32,9 +32,9 @@ CSS          11 mins         █░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Rougo ni Sonaete Isekai ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Eiyuuou, Bu wo Kiwameru ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Ayakashi Triangle            ░░░░░░░░░░░░░░░░░░░░░░░░░   1/???
-    Yuusha Party wo Tsuihou ...  █████████████████████████   13/13
-    Mairimashita! Iruma-kun ...  ███████████████░░░░░░░░░░   13/21
+    Sugar Apple Fairy Tale       ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Tsundere Akuyaku Reijou ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Koori Zokusei Danshi to ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Ningen Fushin no Boukens...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
+    Tensei Oujo to Tensai Re...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
 <!-- RECENT-ANIME:END -->
