@@ -32,9 +32,9 @@ CSS          6 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Sugar Apple Fairy Tale       ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Tsundere Akuyaku Reijou ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Koori Zokusei Danshi to ...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Ningen Fushin no Boukens...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
-    Tensei Oujo to Tensai Re...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Rougo ni Sonaete Isekai ...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Oniichan wa Oshimai!         ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Buddy Daddies                ███░░░░░░░░░░░░░░░░░░░░░░   2/13
+    Saikyou Onmyouji no Isek...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
+    Tomo-chan wa Onnanoko!       █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
 <!-- RECENT-ANIME:END -->
