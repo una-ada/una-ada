@@ -28,9 +28,9 @@ HTML   0 secs          ████████████▒░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Fantasy Bishoujo Juniku ...  █████████████████████████   12/12
+    Chainsaw Man                 █████████████████████████   12/12
+    Ayakashi Triangle            ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
+    Eiyuuou, Bu wo Kiwameru ...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Rougo ni Sonaete Isekai ...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Oniichan wa Oshimai!         ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Buddy Daddies                ███░░░░░░░░░░░░░░░░░░░░░░   2/13
-    Saikyou Onmyouji no Isek...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
-    Tomo-chan wa Onnanoko!       █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
 <!-- RECENT-ANIME:END -->
