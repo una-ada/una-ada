@@ -28,9 +28,9 @@ HTML   0 secs          ████████████▒░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Oniichan wa Oshimai!         ██████░░░░░░░░░░░░░░░░░░░   3/12
     Kage no Jitsuryokusha ni...  ████████████████████░░░░░   16/20
     Itai no wa Iya nano de B...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Tensei Oujo to Tensai Re...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Fantasy Bishoujo Juniku ...  █████████████████████████   12/12
-    Chainsaw Man                 █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
