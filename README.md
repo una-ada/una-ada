@@ -29,9 +29,9 @@ Other        0 secs          █▓░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Oniichan wa Oshimai!         ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Kage no Jitsuryokusha ni...  ████████████████████░░░░░   16/20
-    Itai no wa Iya nano de B...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Tensei Oujo to Tensai Re...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Fantasy Bishoujo Juniku ...  █████████████████████████   12/12
+    Saikyou Onmyouji no Isek...  ███████░░░░░░░░░░░░░░░░░░   4/13
+    Rougo ni Sonaete Isekai ...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Buddy Daddies                ███████░░░░░░░░░░░░░░░░░░   4/13
+    Kage no Jitsuryokusha ni...  █████████████████████░░░░   17/20
+    Tensei Oujo to Tensai Re...  ████████░░░░░░░░░░░░░░░░░   4/12
 <!-- RECENT-ANIME:END -->
