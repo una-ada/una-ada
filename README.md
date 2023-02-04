@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Saikyou Onmyouji no Isek...  ███████░░░░░░░░░░░░░░░░░░   4/13
-    Rougo ni Sonaete Isekai ...  ████████░░░░░░░░░░░░░░░░░   4/12
-    Buddy Daddies                ███████░░░░░░░░░░░░░░░░░░   4/13
-    Kage no Jitsuryokusha ni...  █████████████████████░░░░   17/20
-    Tensei Oujo to Tensai Re...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Kakkou no Iinazuke           ███████████░░░░░░░░░░░░░░   11/24
+    Ayakashi Triangle            ████████░░░░░░░░░░░░░░░░░   4/12
+    Eiyuuou, Bu wo Kiwameru ...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Tensei Oujo to Tensai Re...  ██████████░░░░░░░░░░░░░░░   5/12
+    Kage no Jitsuryokusha ni...  ██████████████████████░░░   18/20
 <!-- RECENT-ANIME:END -->
