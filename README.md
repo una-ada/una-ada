@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Maou-jou de Oyasumi          ████████████░░░░░░░░░░░░░   6/12
     Kakkou no Iinazuke           ███████████░░░░░░░░░░░░░░   11/24
     Ayakashi Triangle            ████████░░░░░░░░░░░░░░░░░   4/12
-    Eiyuuou, Bu wo Kiwameru ...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Eiyuu-ou, Bu wo Kiwameru...  ████████░░░░░░░░░░░░░░░░░   4/12
     Tensei Oujo to Tensai Re...  ██████████░░░░░░░░░░░░░░░   5/12
-    Kage no Jitsuryokusha ni...  ██████████████████████░░░   18/20
 <!-- RECENT-ANIME:END -->
