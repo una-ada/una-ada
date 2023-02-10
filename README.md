@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Maou-jou de Oyasumi          ████████████░░░░░░░░░░░░░   6/12
-    Kakkou no Iinazuke           ███████████░░░░░░░░░░░░░░   11/24
-    Ayakashi Triangle            ████████░░░░░░░░░░░░░░░░░   4/12
-    Eiyuu-ou, Bu wo Kiwameru...  ████████░░░░░░░░░░░░░░░░░   4/12
-    Tensei Oujo to Tensai Re...  ██████████░░░░░░░░░░░░░░░   5/12
+    Gatchaman Crowds             ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Eiyuu-ou, Bu wo Kiwameru...  ██████████░░░░░░░░░░░░░░░   5/12
+    Buddy Daddies                █████████░░░░░░░░░░░░░░░░   5/13
+    Tensei Oujo to Tensai Re...  ████████████░░░░░░░░░░░░░   6/12
+    Maou-jou de Oyasumi          █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
