@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Horimiya                     █████████████████████████   13/13
     Gatchaman Crowds             ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Eiyuu-ou, Bu wo Kiwameru...  ██████████░░░░░░░░░░░░░░░   5/12
     Buddy Daddies                █████████░░░░░░░░░░░░░░░░   5/13
     Tensei Oujo to Tensai Re...  ████████████░░░░░░░░░░░░░   6/12
-    Maou-jou de Oyasumi          █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
