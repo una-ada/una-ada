@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Oniichan wa Oshimai!         ██████████████░░░░░░░░░░░   7/12
+    Kage no Jitsuryokusha ni...  █████████████████████████   20/20
+    Tensei Oujo to Tensai Re...  ████████████████░░░░░░░░░   8/12
     Horimiya                     █████████████████████████   13/13
     Gatchaman Crowds             ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Eiyuu-ou, Bu wo Kiwameru...  ██████████░░░░░░░░░░░░░░░   5/12
-    Buddy Daddies                █████████░░░░░░░░░░░░░░░░   5/13
-    Tensei Oujo to Tensai Re...  ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
