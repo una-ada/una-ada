@@ -29,9 +29,9 @@ Other        1 hr 29 mins    ████▓░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Isekai Shoukan wa Nidome...  ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Jigokuraku                   ███████░░░░░░░░░░░░░░░░░░   4/13
     &quot;Oshi no Ko&quot;                 ████░░░░░░░░░░░░░░░░░░░░░   2/11
     Mahou Shoujo Magical Des...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Kono Subarashii Sekai ni...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Kaminaki Sekai no Kamisa...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Do It Yourself!!             █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
