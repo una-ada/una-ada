@@ -30,9 +30,9 @@ Other        24 mins         █▓░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Isekai de Cheat Skill wo...  ███████░░░░░░░░░░░░░░░░░░   4/13
     Isekai Shoukan wa Nidome...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Jigokuraku                   ███████░░░░░░░░░░░░░░░░░░   4/13
     &quot;Oshi no Ko&quot;                 ████░░░░░░░░░░░░░░░░░░░░░   2/11
     Mahou Shoujo Magical Des...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Kono Subarashii Sekai ni...  ██████░░░░░░░░░░░░░░░░░░░   3/12
 <!-- RECENT-ANIME:END -->
