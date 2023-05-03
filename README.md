@@ -31,9 +31,9 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Isekai de Cheat Skill wo...  ███████░░░░░░░░░░░░░░░░░░   4/13
-    Isekai Shoukan wa Nidome...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Jigokuraku                   ███████░░░░░░░░░░░░░░░░░░   4/13
-    &quot;Oshi no Ko&quot;                 ████░░░░░░░░░░░░░░░░░░░░░   2/11
-    Mahou Shoujo Magical Des...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Nakanohito Genome [Jikky...  ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Kono Bijutsu-bu ni wa Mo...  ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Eizouken ni wa Te wo Das...  █████████████████████████   12/12
+    Kono Subarashii Sekai ni...  ████████░░░░░░░░░░░░░░░░░   4/12
+    &quot;Oshi no Ko&quot;                 ██████░░░░░░░░░░░░░░░░░░░   3/11
 <!-- RECENT-ANIME:END -->
