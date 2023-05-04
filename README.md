@@ -31,7 +31,7 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Nakanohito Genome [Jikky...  ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Nakanohito Genome [Jikky...  █████████████████████████   12/12
     Kono Bijutsu-bu ni wa Mo...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Eizouken ni wa Te wo Das...  █████████████████████████   12/12
     Kono Subarashii Sekai ni...  ████████░░░░░░░░░░░░░░░░░   4/12
