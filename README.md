@@ -31,9 +31,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Kidou Senshi Gundam: Sui...  ██████████░░░░░░░░░░░░░░░   5/12
+    Kidou Senshi Gundam: Sui...  █████████████████████████   12/12
+    Kaminaki Sekai no Kamisa...  ██████████░░░░░░░░░░░░░░░   5/12
     Nakanohito Genome [Jikky...  █████████████████████████   12/12
     Kono Bijutsu-bu ni wa Mo...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Eizouken ni wa Te wo Das...  █████████████████████████   12/12
-    Kono Subarashii Sekai ni...  ████████░░░░░░░░░░░░░░░░░   4/12
-    &quot;Oshi no Ko&quot;                 ██████░░░░░░░░░░░░░░░░░░░   3/11
 <!-- RECENT-ANIME:END -->
