@@ -18,9 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       31 mins         ████████████████████████▓   98.32 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
