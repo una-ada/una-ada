@@ -31,9 +31,9 @@ SCSS         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Mashle                       █████████████████████████   12/12
-    Ochikobore Fruit Tart        █████████████████████████   12/12
-    Wu Nao Monu - ONA            ███░░░░░░░░░░░░░░░░░░░░░░   2/15
-    Kidou Senshi Gundam: Sui...  ██████████████████████░░░   11/12
-    Kono Subarashii Sekai ni...  █████████████████████████   12/12
+    Kidou Senshi Gundam: Sui...  █████████████████████████   12/12
+    Jitsu wa Ore, Saikyou de...  ██████████░░░░░░░░░░░░░░░   5/12
+    Higeki no Genkyou to Nar...  ██████████░░░░░░░░░░░░░░░   5/12
+    Genjitsu no Yohane: Suns...  █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
+    Eiyuu Kyoushitsu             ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
