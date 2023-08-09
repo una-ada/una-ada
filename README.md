@@ -31,9 +31,9 @@ YAML         9 mins          ██▒░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Eiyuu Kyoushitsu             ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Liar Liar                    ████████████░░░░░░░░░░░░░   6/12
+    Mushoku Tensei II: Iseka...  ██████████░░░░░░░░░░░░░░░   5/12
+    Nanatsu no Maken ga Shih...  ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
     Kidou Senshi Gundam: Sui...  █████████████████████████   12/12
-    Jitsu wa Ore, Saikyou de...  ██████████░░░░░░░░░░░░░░░   5/12
-    Higeki no Genkyou to Nar...  ██████████░░░░░░░░░░░░░░░   5/12
-    Genjitsu no Yohane: Suns...  █░░░░░░░░░░░░░░░░░░░░░░░░   1/13
-    Eiyuu Kyoushitsu             ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
