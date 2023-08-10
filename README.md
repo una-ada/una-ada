@@ -31,9 +31,9 @@ SCSS         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Jidou Hanbaiki ni Umarek...  ██████████░░░░░░░░░░░░░░░   5/12
+    Isekai de Cheat Skill wo...  █████████████████████████   13/13
     Eiyuu Kyoushitsu             ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Liar Liar                    ████████████░░░░░░░░░░░░░   6/12
     Mushoku Tensei II: Iseka...  ██████████░░░░░░░░░░░░░░░   5/12
-    Nanatsu no Maken ga Shih...  ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
-    Kidou Senshi Gundam: Sui...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
