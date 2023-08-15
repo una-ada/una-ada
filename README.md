@@ -31,9 +31,9 @@ JSON         18 mins         ██░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Jidou Hanbaiki ni Umarek...  ████████████░░░░░░░░░░░░░   6/12
+    Liar Liar                    ██████████████░░░░░░░░░░░   7/12
+    Mushoku Tensei II: Iseka...  ████████████░░░░░░░░░░░░░   6/12
     Higeki no Genkyou to Nar...  ████████████░░░░░░░░░░░░░   6/12
     Nanatsu no Maken ga Shih...  ███████████░░░░░░░░░░░░░░   6/13
-    Jidou Hanbaiki ni Umarek...  ██████████░░░░░░░░░░░░░░░   5/12
-    Isekai de Cheat Skill wo...  █████████████████████████   13/13
-    Eiyuu Kyoushitsu             ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
 <!-- RECENT-ANIME:END -->
