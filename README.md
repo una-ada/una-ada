@@ -31,9 +31,9 @@ JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Kanojo ga Koushaku-tei n...  █████████████████████████   12/12
     Jidou Hanbaiki ni Umarek...  ████████████░░░░░░░░░░░░░   6/12
     Liar Liar                    ██████████████░░░░░░░░░░░   7/12
     Mushoku Tensei II: Iseka...  ████████████░░░░░░░░░░░░░   6/12
     Higeki no Genkyou to Nar...  ████████████░░░░░░░░░░░░░   6/12
-    Nanatsu no Maken ga Shih...  ███████████░░░░░░░░░░░░░░   6/13
 <!-- RECENT-ANIME:END -->
