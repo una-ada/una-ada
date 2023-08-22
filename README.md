@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Mushoku Tensei II: Iseka...  ██████████████░░░░░░░░░░░   7/12
     Kanojo ga Koushaku-tei n...  █████████████████████████   12/12
     Jidou Hanbaiki ni Umarek...  ████████████░░░░░░░░░░░░░   6/12
     Liar Liar                    ██████████████░░░░░░░░░░░   7/12
-    Mushoku Tensei II: Iseka...  ████████████░░░░░░░░░░░░░   6/12
     Higeki no Genkyou to Nar...  ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
