@@ -9,8 +9,8 @@
 </p>
 
 - Currently studying MERN, MEAN, and Haskell
-- Planning to study WASM, Blender, and Unity
-- Former physics and mathematics student at UWRF
+- Planning to study WASM, Blender, and ~~Unity~~ (lol, lmao even)
+- Former physics and mathematics student
 - Interested in animation and color science
 
 **Weekly Development Report**
