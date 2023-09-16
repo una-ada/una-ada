@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Machikado Mazoku: 2-choume   █████████████████████████   12/12
     Summertime Render            █████████████████████████   25/25
     Mushoku Tensei II: Iseka...  ████████████████████░░░░░   10/12
     Shuumatsu no Izetta          █████████████████████████   12/12
     Rikei ga Koi ni Ochita n...  █████████████████████████   12/12
-    Ningen Fushin no Boukens...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
