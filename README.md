@@ -31,9 +31,9 @@ HTML         47 mins         ██▓░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Mushoku Tensei II: Iseka...  ██████████████████████░░░   11/12
     Machikado Mazoku: 2-choume   █████████████████████████   12/12
     Summertime Render            █████████████████████████   25/25
-    Mushoku Tensei II: Iseka...  ████████████████████░░░░░   10/12
     Shuumatsu no Izetta          █████████████████████████   12/12
     Rikei ga Koi ni Ochita n...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
