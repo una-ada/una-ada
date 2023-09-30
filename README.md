@@ -27,8 +27,8 @@ JSON   2 hrs 42 mins   ███████████████████
 
 <!-- RECENT-ANIME:START -->
 
+    Mushoku Tensei II: Iseka...  █████████████████████████   12/12
     Kaminaki Sekai no Kamisa...  █████████████████████████   12/12
-    Mushoku Tensei II: Iseka...  ██████████████████████░░░   11/12
     Machikado Mazoku: 2-choume   █████████████████████████   12/12
     Summertime Render            █████████████████████████   25/25
     Shuumatsu no Izetta          █████████████████████████   12/12
