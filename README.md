@@ -31,9 +31,9 @@ GDScript3    0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Watashi no Oshi wa Akuya...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Dekoboko Majo no Oyako J...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Sousou no Frieren            ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
     Mushoku Tensei II: Iseka...  █████████████████████████   12/12
     Kaminaki Sekai no Kamisa...  █████████████████████████   12/12
-    Machikado Mazoku: 2-choume   █████████████████████████   12/12
-    Summertime Render            █████████████████████████   25/25
-    Shuumatsu no Izetta          █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
