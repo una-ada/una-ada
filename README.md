@@ -31,9 +31,9 @@ GDScript3    0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Sousou no Frieren            ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
+    Kage no Jitsuryokusha ni...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Spy x Family Season 2        ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Watashi no Oshi wa Akuya...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
     Dekoboko Majo no Oyako J...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Sousou no Frieren            ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
-    Mushoku Tensei II: Iseka...  █████████████████████████   12/12
-    Kaminaki Sekai no Kamisa...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
