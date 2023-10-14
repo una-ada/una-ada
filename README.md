@@ -31,9 +31,9 @@ Markdown     4 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Hikikomari Kyuuketsuki n...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Sousou no Frieren            ████░░░░░░░░░░░░░░░░░░░░░   5/28
-    Kage no Jitsuryokusha ni...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Spy x Family Season 2        ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Watashi no Oshi wa Akuya...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Sousou no Frieren            █████░░░░░░░░░░░░░░░░░░░░   6/28
+    Kage no Jitsuryokusha ni...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Konyaku Haki sareta Reij...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
+    Seijo no Maryoku wa Bann...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Watashi no Oshi wa Akuya...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
 <!-- RECENT-ANIME:END -->
