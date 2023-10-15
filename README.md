@@ -31,9 +31,9 @@ JavaScript   20 mins         ██░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    16bit Sensation: Another...  ███░░░░░░░░░░░░░░░░░░░░░░   2/13
     Sousou no Frieren            █████░░░░░░░░░░░░░░░░░░░░   6/28
     Kage no Jitsuryokusha ni...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Konyaku Haki sareta Reij...  ░░░░░░░░░░░░░░░░░░░░░░░░░   2/???
     Seijo no Maryoku wa Bann...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Watashi no Oshi wa Akuya...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
 <!-- RECENT-ANIME:END -->
