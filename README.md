@@ -31,9 +31,9 @@ Other        1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
-    Potion-danomi de Ikinobi...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Spy x Family Season 2        ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Hikikomari Kyuuketsuki n...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    16bit Sensation: Another...  ███░░░░░░░░░░░░░░░░░░░░░░   2/13
-    Sousou no Frieren            █████░░░░░░░░░░░░░░░░░░░░   6/28
+    16bit Sensation: Another...  █████░░░░░░░░░░░░░░░░░░░░   3/13
+    Kage no Jitsuryokusha ni...  ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Konyaku Haki sareta Reij...  ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
+    Okashi na Tensei             █████████████████████████   12/12
+    Seijo no Maryoku wa Bann...  ██████░░░░░░░░░░░░░░░░░░░   3/12
 <!-- RECENT-ANIME:END -->
