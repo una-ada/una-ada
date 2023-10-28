@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Mairimashita! Iruma-kun ...  █████████████████████████   21/21
     Isekai Ojisan                █████████████████████████   13/13
     Liar Liar                    █████████████████████████   12/12
     16bit Sensation: Another...  █████░░░░░░░░░░░░░░░░░░░░   3/13
     Kage no Jitsuryokusha ni...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Konyaku Haki sareta Reij...  ░░░░░░░░░░░░░░░░░░░░░░░░░   3/???
 <!-- RECENT-ANIME:END -->
