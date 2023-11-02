@@ -27,9 +27,9 @@ JSON   0 secs          ███████████████████
 
 <!-- RECENT-ANIME:START -->
 
-    Mairimashita! Iruma-kun ...  █████████████████████████   21/21
-    Isekai Ojisan                █████████████████████████   13/13
-    Liar Liar                    █████████████████████████   12/12
-    16bit Sensation: Another...  █████░░░░░░░░░░░░░░░░░░░░   3/13
-    Kage no Jitsuryokusha ni...  ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Hikikomari Kyuuketsuki n...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Sousou no Frieren            ███████░░░░░░░░░░░░░░░░░░   8/28
+    Kage no Jitsuryokusha ni...  ████████░░░░░░░░░░░░░░░░░   4/12
+    Konyaku Haki sareta Reij...  ░░░░░░░░░░░░░░░░░░░░░░░░░   4/???
+    Seijo no Maryoku wa Bann...  ████████░░░░░░░░░░░░░░░░░   4/12
 <!-- RECENT-ANIME:END -->
