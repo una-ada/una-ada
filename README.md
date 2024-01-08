@@ -18,8 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML     5 mins          ██████████████████████▒░░   89.23 %
-Other   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
