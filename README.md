@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Kage no Jitsuryokusha ni...  ████████████████████░░░░░   10/12
-    Konyaku Haki sareta Reij...  ████████████████████░░░░░   10/12
-    Jujutsu Kaisen 2nd Season    █████████████████████░░░░   20/23
-    Sousou no Frieren            ████████████░░░░░░░░░░░░░   14/28
-    Hidan no Aria AA             █████████████████████████   12/12
+    Loop 7-kaime no Akuyaku ...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Akuyaku Reijou Level 99:...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Wu Nao Monu 2nd Season -...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Sousou no Frieren            ████████████████░░░░░░░░░   18/28
+    Himesama &quot;Goumon&quot; no Jik...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
