@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Temple                       █████████████████████████   12/12
     Jujutsu Kaisen 2nd Season    █████████████████████████   23/23
     Loop 7-kaime no Akuyaku ...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Akuyaku Reijou Level 99:...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Wu Nao Monu 2nd Season -...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Sousou no Frieren            ████████████████░░░░░░░░░   18/28
 <!-- RECENT-ANIME:END -->
