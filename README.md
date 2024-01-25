@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Dungeon Meshi                ███░░░░░░░░░░░░░░░░░░░░░░   3/24
+    Sasaki to Pii-chan           ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Ore dake Level Up na Ken     ██████░░░░░░░░░░░░░░░░░░░   3/12
+    Sousou no Frieren            ████████████████░░░░░░░░░   19/28
     Temple                       █████████████████████████   12/12
-    Jujutsu Kaisen 2nd Season    █████████████████████████   23/23
-    Loop 7-kaime no Akuyaku ...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Akuyaku Reijou Level 99:...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Wu Nao Monu 2nd Season -...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
