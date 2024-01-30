@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Akuyaku Reijou Level 99:...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Dungeon Meshi                ███░░░░░░░░░░░░░░░░░░░░░░   3/24
     Sasaki to Pii-chan           ██████░░░░░░░░░░░░░░░░░░░   3/12
     Ore dake Level Up na Ken     ██████░░░░░░░░░░░░░░░░░░░   3/12
     Sousou no Frieren            ████████████████░░░░░░░░░   19/28
-    Temple                       █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
