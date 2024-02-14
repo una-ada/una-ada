@@ -18,8 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   4 mins          ███████████████████▒░░░░░   77.41 %
-INI    1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
