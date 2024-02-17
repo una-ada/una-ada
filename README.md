@@ -28,9 +28,9 @@ HTML   4 mins          ██████████▒░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Uchi no Ko no Tame narab...  █████████████████████████   12/12
+    Jitsu wa Ore, Saikyou de...  █████████████████████████   12/12
     Isekai Nonbiri Nouka         █████████████████████████   12/12
     Akuyaku Reijou Level 99:...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Dungeon Meshi                ███░░░░░░░░░░░░░░░░░░░░░░   3/24
-    Sasaki to Pii-chan           ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Ore dake Level Up na Ken     ██████░░░░░░░░░░░░░░░░░░░   3/12
 <!-- RECENT-ANIME:END -->
