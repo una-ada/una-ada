@@ -28,9 +28,9 @@ HTML   4 mins          ██████████▒░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Tanaka-kun wa Itsumo Ked...  █████████████████████████   7/7
+    Tanaka-kun wa Kyou mo Ke...  █████████████████████████   35/35
+    Tanaka-kun wa Itsumo Ked...  █████████████████████████   12/12
+    Dumbbell Nan Kilo Moteru?    █████████████████████████   12/12
     Uchi no Ko no Tame narab...  █████████████████████████   12/12
-    Jitsu wa Ore, Saikyou de...  █████████████████████████   12/12
-    Isekai Nonbiri Nouka         █████████████████████████   12/12
-    Akuyaku Reijou Level 99:...  ██████░░░░░░░░░░░░░░░░░░░   3/12
-    Dungeon Meshi                ███░░░░░░░░░░░░░░░░░░░░░░   3/24
 <!-- RECENT-ANIME:END -->
