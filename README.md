@@ -28,9 +28,9 @@ HTML   4 mins          ██████████▒░░░░░░░░
 
 <!-- RECENT-ANIME:START -->
 
+    Dungeon Meshi                ███████░░░░░░░░░░░░░░░░░░   7/24
+    Mahou Shoujo ni Akogarete    █████████████░░░░░░░░░░░░   7/13
+    Ore dake Level Up na Ken     ██████████████░░░░░░░░░░░   7/12
+    Sousou no Frieren            ████████████████████░░░░░   23/28
     Tanaka-kun wa Itsumo Ked...  █████████████████████████   7/7
-    Tanaka-kun wa Kyou mo Ke...  █████████████████████████   35/35
-    Tanaka-kun wa Itsumo Ked...  █████████████████████████   12/12
-    Dumbbell Nan Kilo Moteru?    █████████████████████████   12/12
-    Uchi no Ko no Tame narab...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
