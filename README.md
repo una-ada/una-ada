@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Kimi no Koto ga Daidaida...  █████████████████████████   12/12
     Chiyu Mahou no Machigatt...  █████████████░░░░░░░░░░░░   7/13
     Dungeon Meshi                ███████░░░░░░░░░░░░░░░░░░   7/24
     Mahou Shoujo ni Akogarete    █████████████░░░░░░░░░░░░   7/13
     Ore dake Level Up na Ken     ██████████████░░░░░░░░░░░   7/12
-    Sousou no Frieren            ████████████████████░░░░░   23/28
 <!-- RECENT-ANIME:END -->
