@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Kumichou Musume to Sewag...  █████████████████████████   12/12
+    Level 1 dakedo Unique Sk...  ████████████████░░░░░░░░░   8/12
+    Shin Shinka no Mi: Shira...  █████████████████████████   12/12
+    Shinka no Mi: Shiranai U...  █████████████████████████   12/12
     Tondemo Skill de Isekai ...  █████████████████████████   12/12
-    Mahou Shoujo ni Akogarete    ███████████████████░░░░░░   10/13
-    Ore dake Level Up na Ken     ██████████████████░░░░░░░   9/12
-    Sousou no Frieren            ███████████████████████░░   26/28
-    Kimi no Koto ga Daidaida...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
