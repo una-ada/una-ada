@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
-    Ore dake Level Up na Ken     █████████████████████████   12/12
-    Sousou no Frieren            █████████████████████████   28/28
-    Kumichou Musume to Sewag...  █████████████████████████   12/12
-    Level 1 dakedo Unique Sk...  ████████████████░░░░░░░░░   8/12
-    Shin Shinka no Mi: Shira...  █████████████████████████   12/12
+    Mob kara Hajimaru Tansak...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Maougun Saikyou no Majut...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Shikanoko Nokonoko Koshi...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Senpai wa Otokonoko          ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
+    Isekai Shikkaku              ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
