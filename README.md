@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Seiyuu Radio no Uraomote     ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Mushoku Tensei II: Iseka...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
+    Kono Subarashii Sekai ni...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/11
     Mob kara Hajimaru Tansak...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
     Maougun Saikyou no Majut...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Shikanoko Nokonoko Koshi...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Senpai wa Otokonoko          ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
-    Isekai Shikkaku              ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
