@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Sasayaku You ni Koi wo U...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Seiyuu Radio no Uraomote     ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Mushoku Tensei II: Iseka...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
+    Kono Subarashii Sekai ni...  ████░░░░░░░░░░░░░░░░░░░░░   2/11
     Hyakka Ryouran: Samurai ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Seiyuu Radio no Uraomote     ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Mushoku Tensei II: Iseka...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/12
-    Kono Subarashii Sekai ni...  ██░░░░░░░░░░░░░░░░░░░░░░░   1/11
-    Mob kara Hajimaru Tansak...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/???
 <!-- RECENT-ANIME:END -->
