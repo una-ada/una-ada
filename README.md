@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Mitsuboshi Colors            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Mushoku Tensei II: Iseka...  ██████░░░░░░░░░░░░░░░░░░░   3/12
     Kono Subarashii Sekai ni...  ██████░░░░░░░░░░░░░░░░░░░   3/11
     Sasayaku You ni Koi wo U...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
     Seiyuu Radio no Uraomote     ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Hyakka Ryouran: Samurai ...  ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
