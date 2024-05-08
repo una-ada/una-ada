@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Endro~!                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Akuyaku Reijou Level 99:...  █████████████████████████   12/12
+    Tensei Kizoku, Kantei Sk...  ██████████░░░░░░░░░░░░░░░   5/12
+    Mushoku Tensei II: Iseka...  ██████████░░░░░░░░░░░░░░░   5/12
     Kono Subarashii Sekai ni...  █████████░░░░░░░░░░░░░░░░   4/11
-    Mushoku Tensei II: Iseka...  ████████░░░░░░░░░░░░░░░░░   4/12
-    Mitsuboshi Colors            ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
-    Sasayaku You ni Koi wo U...  ████░░░░░░░░░░░░░░░░░░░░░   2/12
-    Seiyuu Radio no Uraomote     ████░░░░░░░░░░░░░░░░░░░░░   2/12
 <!-- RECENT-ANIME:END -->
