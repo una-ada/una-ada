@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Mato Seihei no Slave         ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
+    Kuma Kuma Kuma Bear          █████████████████████████   12/12
     Endro~!                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Akuyaku Reijou Level 99:...  █████████████████████████   12/12
     Tensei Kizoku, Kantei Sk...  ██████████░░░░░░░░░░░░░░░   5/12
-    Mushoku Tensei II: Iseka...  ██████████░░░░░░░░░░░░░░░   5/12
-    Kono Subarashii Sekai ni...  █████████░░░░░░░░░░░░░░░░   4/11
 <!-- RECENT-ANIME:END -->
