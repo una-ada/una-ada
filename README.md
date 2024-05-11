@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Aru Asa Dummy Head Mic n...  █████████████████████████   12/12
     Mato Seihei no Slave         ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Kuma Kuma Kuma Bear          █████████████████████████   12/12
     Endro~!                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Akuyaku Reijou Level 99:...  █████████████████████████   12/12
-    Tensei Kizoku, Kantei Sk...  ██████████░░░░░░░░░░░░░░░   5/12
 <!-- RECENT-ANIME:END -->
