@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Tensei shitara Dainana O...  █████████████████████████   12/12
     Endro~!                      █████████████████████████   12/12
     Aru Asa Dummy Head Mic n...  █████████████████████████   12/12
     Mato Seihei no Slave         ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
     Kuma Kuma Kuma Bear          █████████████████████████   12/12
-    Akuyaku Reijou Level 99:...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
