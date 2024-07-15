@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Good Night World - ONA       ████████████░░░░░░░░░░░░░   6/12
     Shangri-La Frontier: Kus...  █████████████████████████   25/25
     Tensei shitara Dainana O...  █████████████████████████   12/12
     Endro~!                      █████████████████████████   12/12
     Aru Asa Dummy Head Mic n...  █████████████████████████   12/12
-    Mato Seihei no Slave         ░░░░░░░░░░░░░░░░░░░░░░░░░   0/12
 <!-- RECENT-ANIME:END -->
