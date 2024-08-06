@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Nanatsu no Maken ga Shih...  █████████████████████████   15/15
+    Kono Subarashii Sekai ni...  ██████████████████░░░░░░░   8/11
+    Mushoku Tensei II: Iseka...  ████████████████░░░░░░░░░   8/12
+    Sasayaku You ni Koi wo U...  ████████████░░░░░░░░░░░░░   6/12
     Chiyu Mahou no Machigatt...  █████████████████████████   13/13
-    VTuber Nandaga Haishin K...  ████████░░░░░░░░░░░░░░░░░   4/12
-    Shikanoko Nokonoko Koshi...  ░░░░░░░░░░░░░░░░░░░░░░░░░   5/???
-    Kono Healer, Mendokusai      █████████████████████████   12/12
-    Good Night World - ONA       ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
