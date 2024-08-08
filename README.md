@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Kami-tachi ni Hirowareta...  █████████████████████████   12/12
+    Kami-tachi ni Hirowareta...  █████████████████████████   12/12
     Tsuki ga Michibiku Iseka...  █████████████████████████   25/25
     Nanatsu no Maken ga Shih...  █████████████████████████   15/15
     Kono Subarashii Sekai ni...  ██████████████████░░░░░░░   8/11
-    Mushoku Tensei II: Iseka...  ████████████████░░░░░░░░░   8/12
-    Sasayaku You ni Koi wo U...  ████████████░░░░░░░░░░░░░   6/12
 <!-- RECENT-ANIME:END -->
