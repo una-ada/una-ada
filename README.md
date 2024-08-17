@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Seija Musou: Salaryman, ...  █████████████████████████   12/12
     Saijaku Tamer wa Gomi Hi...  █████████████████████████   12/12
     Mahoutsukai no Yome Seas...  █████████████████████████   12/12
     Mahoutsukai no Yome Seas...  █████████████████████████   12/12
     Seiken Gakuin no Makents...  █████████████████████████   12/12
-    Kami-tachi ni Hirowareta...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
