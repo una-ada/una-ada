@@ -27,9 +27,9 @@ HTML   2 mins          ███████████████████
 
 <!-- RECENT-ANIME:START -->
 
+    Maou no Ore ga Dorei Elf...  █████████████████████████   12/12
     Kusuriya no Hitorigoto       █████████████████████████   24/24
     Seija Musou: Salaryman, ...  █████████████████████████   12/12
     Saijaku Tamer wa Gomi Hi...  █████████████████████████   12/12
-    Mahoutsukai no Yome Seas...  █████████████████████████   12/12
     Mahoutsukai no Yome Seas...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
