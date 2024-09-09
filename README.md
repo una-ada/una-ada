@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Itai no wa Iya nanode Bo...  █████████████████████████   12/12
     Higeki no Genkyou to Nar...  █████████████████████████   12/12
     Yumemiru Danshi wa Genji...  █████████████████████████   12/12
     Maou no Ore ga Dorei Elf...  █████████████████████████   12/12
     Kusuriya no Hitorigoto       █████████████████████████   24/24
-    Seija Musou: Salaryman, ...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
