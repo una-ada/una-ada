@@ -27,9 +27,9 @@ No activity tracked
 
 <!-- RECENT-ANIME:START -->
 
+    Seirei Gensouki 2            █████████████████████████   12/12
     Dandadan                     █████████████████████████   12/12
     Mayonaka Punch               █████████████████████████   12/12
     Itai no wa Iya nanode Bo...  █████████████████████████   12/12
     Higeki no Genkyou to Nar...  █████████████████████████   12/12
-    Yumemiru Danshi wa Genji...  █████████████████████████   12/12
 <!-- RECENT-ANIME:END -->
