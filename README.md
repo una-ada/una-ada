@@ -31,7 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      1 hr 4 mins     █████████████▓░░░░░░░░░░░   55.33 %
+CSS           13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+HTML          13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Image (svg)   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+JSON          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
