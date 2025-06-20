@@ -31,10 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 mins          ███████████████████████▓░   94.87 %
-HTML       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-SCSS       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
