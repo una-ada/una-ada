@@ -31,11 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        17 mins         █████████░░░░░░░░░░░░░░░░   36.01 %
-INI               13 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 %
-TOML              7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-JSON              4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Java Properties   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
